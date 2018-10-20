@@ -1,0 +1,750 @@
+agency code
+station number
+begin date
+begin time
+end date
+end time
+time datum
+time datum reliability code
+agency collecting sample code
+medium code
+taxonomic unit code
+body part code
+sampling depth
+stream width
+location in cross section
+sample accounting number
+temperature
+barometric pressure
+agency analyzing sample
+project number
+cloud cover
+flow rate of well
+flow rate
+discharge
+gage height
+turbidity
+color
+odor at room temperature
+oxidation reduction potential
+specific conductance
+hydrogen ion
+dissolved oxygen
+biochemical oxygen demand
+chemical oxygen demand
+ph
+carbon dioxide
+acid neutralizing capacity
+bicarbonate
+carbonate
+total solids remaining after ignition
+dissolved solids dried at 105 degrees celsius
+loss on ignition of dissolved solids
+suspended solids
+loss on ignition of suspended solids
+suspended solids remaining after ignition
+oil and grease
+biomass
+total nitrogen [nitrate + nitrite + ammonia + organic-n]
+organic nitrogen
+ammonia (nh3 + nh4+)
+nitrite
+nitrate
+ammonia plus organic nitrogen
+nitrate plus nitrite
+phosphate
+orthophosphate
+phosphorus
+organic carbon
+cyanide
+sulfide
+hardness
+noncarbonate hardness
+calcium
+magnesium
+sodium
+sodium adsorption ratio (sar)
+sodium fraction of cations
+sodium plus potassium
+potassium
+chloride
+sulfate
+fluoride
+silica
+arsenic
+barium
+beryllium
+boron
+cadmium
+chromium
+chromium(vi)
+cobalt
+copper
+iron
+iron(ii)
+iron(ii) plus iron(iii)
+lead
+manganese
+thallium
+molybdenum
+nickel
+silver
+strontium
+vanadium
+zinc
+antimony
+aluminum
+lithium
+selenium
+tungsten
+terbuthylazine
+propachlor
+hexazinone
+butylate
+bromacil
+cycloate
+terbacil
+diphenamid
+simazine
+prometryn
+prometon
+2-chloro-6-ethylamino-4-amino-s-triazine
+2-chloro-4-isopropylamino-6-amino-s-triazine
+cyanazine
+fonofos
+metalaxyl
+tritium
+tritium in water molecules
+tritium in water molecules counting error
+radium-226
+uranium-238
+uranium-234
+uranium-235
+uranium (natural)
+alkalinity
+2-methylnaphthalene
+2-nitroaniline
+4-nitroaniline
+2-methyl-4,6-dinitrophenol
+depth to water level
+dibromomethane
+dichlorvos
+inorganic carbon
+4-chloroaniline
+total coliforms
+fecal coliforms
+fecal streptococci
+sample volume
+bromodichloromethane
+tetrachloromethane
+1,2-dichloroethane
+tribromomethane
+dibromochloromethane
+trichloromethane
+phenolic compounds
+toluene
+benzene
+acenaphthylene
+acenaphthene
+acrylonitrile
+anthracene
+benzo[b]fluoranthene
+benzo[k]fluoranthene
+benzo[a]pyrene
+alpha-hch
+bis(2-chloroethyl) ether
+bis(2-chloroethoxy)methane
+bis(2-chloroisopropyl) ether
+benzyl n-butyl phthalate
+chlorobenzene
+chloroethane
+chrysene
+diethyl phthalate
+dimethyl phthalate
+alpha-endosulfan
+ethylbenzene
+fluoranthene
+9h-fluorene
+hexachlorocyclopentadiene
+hexachlorobutadiene
+hexachloroethane
+indeno[1,2,3-cd]pyrene
+isophorone
+bromomethane
+chloromethane
+dichloromethane
+n-nitrosodi-n-propylamine
+n-nitrosodiphenylamine
+n-nitrosodimethylamine (ndma)
+nitrobenzene
+4-chloro-3-methylphenol
+phenanthrene
+pyrene
+tetrachloroethene
+trichlorofluoromethane
+1,1-dichloroethane
+1,1-dichloroethene
+1,1,1-trichloroethane
+1,1,2-trichloroethane
+1,1,2,2-tetrachloroethane
+benzo[ghi]perylene
+benzo[a]anthracene
+1,2-dichlorobenzene
+1,2-dichloropropane
+trans-1,2-dichloroethene
+1,2,4-trichlorobenzene
+dibenzo[a,h]anthracene
+1,3-dichloropropene
+1,3-dichlorobenzene
+1,4-dichlorobenzene
+2-chloroethyl vinyl ether
+2-chloronaphthalene
+2-chlorophenol
+2-nitrophenol
+di-n-octyl phthalate
+2,4-dichlorophenol
+2,4-dimethylphenol
+2,4-dinitrotoluene
+2,4-dinitrophenol
+2,4,6-trichlorophenol
+2,6-dinitrotoluene
+3,3'-dichlorobenzidine
+4-bromophenyl phenyl ether
+4-chlorophenyl phenyl ether
+4-nitrophenol
+p,p'-dde
+dichlorodifluoromethane
+phenol
+naphthalene
+trans-1,3-dichloropropene
+cis-1,3-dichloropropene
+methylene blue active substances
+dicamba
+dicrotophos
+linuron
+mcpa
+mcpb
+methiocarb
+propoxur
+siduron
+bentazon
+2,4-db
+fluometuron
+oxamyl
+chlorpyrifos
+propazine
+trifluralin
+pentachlorophenol
+simetryn
+bis(2-ethylhexyl) phthalate
+di-n-butyl phthalate
+vinyl chloride
+trichloroethene
+polychlorinated naphthalenes
+aldrin
+lindane
+chlordane (technical)
+p,p'-ddd
+p,p'-ddt
+dieldrin
+endrin
+ethion
+toxaphene
+heptachlor
+metolachlor
+heptachlor epoxide
+p,p'-methoxychlor
+pcbs
+malathion
+parathion
+diazinon
+methyl parathion
+atrazine
+hexachlorobenzene
+2,4-d
+2,4,5-t
+carbaryl
+mirex
+silvex
+carbophenothion
+methyl trithion
+isopropyl acetate
+chlorodifluoromethane
+alachlor
+precipitation
+triclopyr
+propham
+acetochlor
+picloram
+oryzalin
+norflurazon
+neburon
+1-naphthol
+methomyl
+fenuron
+diuron
+dinoseb
+dichlorprop
+dichlobenil
+dcpa monoacid
+clopyralid
+chlorothalonil
+3-hydroxy carbofuran
+carbofuran
+bromoxynil
+aldicarb
+aldicarb sulfone
+aldicarb sulfoxide
+acifluorfen
+1,1-difluoroethane
+delta sulfur-34/sulfur-32 of sulfate
+carbon-14
+carbon-14 counting error
+methyl acrylate
+1,2,3,4-tetramethylbenzene
+1,2,3,5-tetramethylbenzene
+bromoethene
+tert-butyl ethyl ether
+methyl tert-pentyl ether
+chlorine (total residual)
+site visit purpose
+1,1,2-trichloro-1,2,2-trifluoroethane
+bendiocarb
+benomyl
+caffeine
+chlorimuron-ethyl
+sulfometuron-methyl
+2-hydroxy-4-isopropylamino-6-ethylamino-s-triazine
+imazaquin
+nicosulfuron
+imazethapyr
+escherichia coli
+2,4-d methyl ester
+propiconazole
+absorbance
+radium-224
+1,2-dichloro-1,1,2,2-tetrafluoroethane
+helium
+hydrogen
+argon
+oxygen
+dinitrogen
+carbon monoxide
+propene
+c6 and higher-molecular-weight hydrocarbons
+phytoplankton
+helium-3/helium-4 ratio
+neon
+neon error
+tribenuron-methyl
+chloramben methyl ester
+perchlorate
+cyfluthrin
+cypermethrin
+endosulfan sulfate
+fenamiphos
+iprodione
+isofenphos
+lambda-cyhalothrin
+methidathion
+myclobutanil
+oxyfluorfen
+phosmet
+tefluthrin
+tribufos
+2-chloro-2',6'-diethylacetanilide
+2-ethyl-6-methylaniline
+3,4-dichloroaniline
+3,5-dichloroaniline
+4-chloro-2-methylphenol
+azinphos-methyl oxygen analog
+chlorpyrifos oxygen analog
+diazoxon
+disulfoton sulfone
+ethion monoxon
+fenamiphos sulfone
+fenamiphos sulfoxide
+malaoxon
+methyl paraoxon
+phorate oxygen analog
+phosmet oxygen analog
+terbufos oxygen analog sulfone
+n-(4-chlorophenyl)-n'-methylurea
+bensulfuron-methyl
+flumetsulam
+imidacloprid
+metsulfuron-methyl
+3-tert-butyl-4-hydroxyanisole
+4-nonylphenol diethoxylate (sum of all isomers)
+4-nonylphenol monoethoxylate (sum of all isomers)
+tris(dichloroisopropyl) phosphate
+triclosan
+5-methyl-1h-benzotriazole
+cotinine
+n,n-diethyl-m-toluamide (deet)
+beta-stigmastanol
+acetaminophen
+codeine
+dehydronifedipine
+diltiazem
+albuterol
+sulfamethoxazole
+trimethoprim
+warfarin
+1,7-dimethylxanthine
+fipronil
+fipronil sulfide
+fipronil sulfone
+desulfinylfipronil amide
+desulfinylfipronil
+2,2-dichloro-1,1,1-trifluoroethane
+pheophytin a
+arsenite
+carbon [inorganic plus organic]
+4-tert-octylphenol monoethoxylate
+4-tert-octylphenol diethoxylate
+gross alpha radioactivity
+gross beta radioactivity
+delta boron-11/boron-10
+carbamazepine
+diphenhydramine
+thiabendazole
+2,6-dimethylnaphthalene
+3-beta-coprostanol
+3-methyl-1h-indole
+4-cumylphenol
+4-n-octylphenol
+4-tert-octylphenol
+acetophenone
+acetyl hexamethyl tetrahydro naphthalene
+9,10-anthraquinone
+benzophenone
+beta-sitosterol
+bisphenol a
+camphor
+cholesterol
+d-limonene
+hexahydrohexamethyl cyclopentabenzopyran
+indole
+isoborneol
+isoquinoline
+menthol
+methyl salicylate
+4-nonylphenol (sum of all isomers)
+tris(2-butoxyethyl) phosphate
+tris(2-chloroethyl) phosphate
+tributyl phosphate
+triethyl citrate
+triphenyl phosphate
+isobutyl alcohol-d6
+bisphenol a-d3
+caffeine-13c
+decafluorobiphenyl
+fluoranthene-d10
+delta oxygen-18/oxygen-16 of nitrate
+3,4-dichlorophenyl isocyanate
+bde congener 47
+specific uv absorbance
+1-methylnaphthalene
+carbazole
+isopropylbenzene
+p-cresol
+hydrophobic acid fraction of dissolved organic carbon
+hydrophilic acid fraction of dissolved organic carbon
+transphilic organic acid fraction of dissolved organic carbon
+specific uv absorbance at 254 nm of hydrophobic acid fraction of doc
+specific uv absorbance at 254 nm of hydrophilic acid fraction of doc
+specific uv absorbance at 254 nm of transphilic organic acid fraction of doc
+delta carbon-13/carbon-12 of methane
+delta carbon-13/carbon-12 of ethane
+delta hydrogen-2/hydrogen-1 of methane
+2,4-d plus 2,4-d methyl ester
+1-methoxy-4-(2-propenyl)benzene
+bis(2-chloro-1-methylethyl) ether
+1,3-butadiene
+2-ethoxyethyl acetate
+2-propen-1-ol
+alpha-terpineol
+butanal
+trans-crotonaldehyde
+methane
+ethane
+ethene
+propane
+2-methylpropane (isobutane)
+n-butane
+2-methylbutane (isopentane)
+n-pentane
+dissolved solids dried at 180 degrees celsius
+dissolved solids
+suspended sediment
+biomass to chlorophyll ratio
+chlorophyll a
+chlorophyll b
+hydroxide
+iodide
+bromide
+hydrogen sulfide
+mercury
+sample purpose
+altitude of land surface
+depth of hole
+pump or flow period prior to sampling
+sample source
+sampling condition
+depth of well
+depth to top of sample interval
+depth to bottom of sample interval
+elevation of sample
+trans-1,4-dichloro-2-butene
+ethyl methacrylate
+strontium-87/strontium-86 ratio
+tritium 2-sigma combined uncertainty
+radon-222 2-sigma combined uncertainty
+acetonitrile
+methyl acetate
+1-butanol
+tert-butyl alcohol
+carbon disulfide
+n-pentanal
+tert-amyl alcohol
+2-nitropropane
+cis-1,2-dichloroethene
+n-butyl methyl ketone
+4-methyl-2-pentanol
+dichlorofluoromethane
+styrene
+o-xylene
+o-cresol
+1,1-dichloropropene
+2,2-dichloropropane
+1,3-dichloropropane
+5-methyl-2-hexanone
+2-methylpropyl acetate
+2-ethyltoluene
+1,2,3-trimethylbenzene
+1,2,4-trimethylbenzene
+n-propylbenzene
+1,3,5-trimethylbenzene
+benzoic acid
+2-chlorotoluene
+4-chlorotoluene
+bromochloromethane
+1-octanol
+1,2,3,4-tetrahydronaphthalene
+n-butylbenzene
+sec-butylbenzene
+tert-butylbenzene
+4-isopropyltoluene
+2,6-dimethyl-4-heptanone
+iodomethane
+1,2,3-trichloropropane
+chloropicrin
+1,1,1,2-tetrachloroethane
+1,2,3-trichlorobenzene
+1,2-dibromoethane
+2,4,5-trichlorophenol
+methyl tert-butyl ether
+3-chloropropene
+isobutyl methyl ketone
+n-nitrosodiethylamine
+3-nitroaniline
+cis-propiconazole
+trans-propiconazole
+suspended sediment concentration
+suspended sediment discharge
+1,1-dichloro-2-propanone
+drainage area
+dibenzofuran
+filter pore size
+radium-228
+xylene (all isomers)
+acetone
+bromobenzene
+butane
+diethyl ether
+diisopropyl ether
+dimethoxymethane
+1,4-dioxane
+1,3-dioxolane
+ethyl acetate
+hexane
+methyl acrylonitrile
+methyl ethyl ketone
+methyl methacrylate
+tetrahydrofuran
+p,p'-ethyl-ddd
+depth to bottom at sample location
+mean depth of lake
+potassium-40
+delta carbon-13/carbon-12
+delta hydrogen-2/hydrogen-1
+delta oxygen-18/oxygen-16
+ametryn
+atraton
+cyprazine
+simetone
+radon-222
+sampling method
+metribuzin
+1,2-dibromo-3-chloropropane
+1,2-diphenylhydrazine
+2,6-diethylaniline
+dimethoate
+ethalfluralin
+phorate
+eptc
+pebulate
+tebuthiuron
+molinate
+ethoprop
+benfluralin
+terbufos
+propyzamide
+disulfoton
+triallate
+propanil
+thiobencarb
+dcpa
+pendimethalin
+napropamide
+propargite
+azinphos-methyl
+cis-permethrin
+delta nitrogen-15/nitrogen-14 of nitrate
+delta nitrogen-15/nitrogen-14 of ammonia
+delta nitrogen-15/nitrogen-14 of dinitrogen
+delta chromium-53/chromium-52
+depth to bottom from water surface
+sampler type
+helium-4
+helium-4 error
+argon error
+krypton
+krypton error
+xenon
+xenon error
+helium-3/helium-4 error
+1-chloro-1,1-difluoroethane
+m-xylene plus p-xylene
+1-bromo-3-chloropropane-d6
+tetrahydrofuran-d8
+phenol-d5
+barban
+2,4,6-tribromophenol
+1-bromo-4-fluorobenzene
+toluene-d8
+trihalomethanes
+enterococci
+diazinon-d10
+alpha-hch-d6
+sample weight
+2-fluorophenol
+caffeine-d9
+bisphenol a-d14
+n-nitrosodimethylamine-d6
+nitrobenzene-d5
+p-terphenyl-d14
+2-fluorobiphenyl
+conversion factor
+total cell count
+chlamydomonadaceae
+carteria
+chlamydomonas
+chlorogonium
+lobomonas
+phacotus
+pteromonas
+eudorina
+gloeocystis
+elakatothrix
+uronema
+microspora
+stigeoclonium
+coleochaete
+cladophora
+oedogonium
+schroederia
+pediastrum
+coelastrum
+ankistrodesmus
+chlorella
+closteriopsis
+dictyosphaerium
+franceia
+kirchneriella
+nephrocytium
+oocystis
+quadrigula
+selenastrum
+tetraedron
+chodatella
+scenedesmaceae
+actinastrum
+crucigenia
+scenedesmus
+tetrastrum
+golenkinia
+micractinium
+closterium
+cosmarium
+staurastrum
+euglena
+phacus
+trachelomonas
+chroomonas
+cryptomonas
+glenodinium
+mallomonas
+ochromonas
+uroglenopsis
+cyclotella
+melosira
+stephanodiscus
+tabellaria
+meridion
+diatoma
+fragilaria
+synedra
+achnanthes
+cocconeis
+rhoicosphenia
+diploneis
+navicula
+gomphonema
+amphora
+cymbella
+epithemia
+denticula
+hantzschia
+nitzschia
+surirella
+anacystis
+agmenellum
+coccochloris
+lyngbya
+oscillatoria
+phormidium
+anabaena
+anabaenopsis
+aphanizomenon
+cylindrospermum
+plectonema
+inorganic arsenic(iii)
+type of replicate
+type of quality assurance data associated with sample
+topical quality-control data purpose
+hydrochloric acid nwis lot number
+nitric acid nwis lot number
+conductance standard nwis lot number
+ph 10 buffer solution
+ph 4 buffer solution
+ph 7 buffer solution
+sulfuric acid titrant nwis lot number
+lot number
+nwis lot number
+coliphage
+set number
+1,2-dichloroethane-d4
+bdmc
+number of tentatively identified compounds (tics) from voc analysis by gcms

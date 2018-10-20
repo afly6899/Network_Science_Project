@@ -1,0 +1,709 @@
+1,1,1,2-Tetrachloroethane, water, unfiltered, recoverable, micrograms per liter
+1,1,1-Trichloroethane, water, unfiltered, recoverable, micrograms per liter
+1,1,2,2-Tetrachloroethane, water, unfiltered, recoverable, micrograms per liter
+1,1,2-Trichloro-1,2,2-trifluoroethane, water, unfiltered, recoverable, micrograms per liter
+1,1,2-Trichloroethane, water, unfiltered, recoverable, micrograms per liter
+1,1-Dichloro-2-propanone, water, unfiltered, recoverable, micrograms per liter
+1,1-Dichloroethane, water, unfiltered, recoverable, micrograms per liter
+1,1-Dichloroethene, water, unfiltered, recoverable, micrograms per liter
+1,1-Dichloropropene, water, unfiltered, recoverable, micrograms per liter
+1,1-Difluoroethane, water, unfiltered, recoverable, micrograms per liter
+1,2,3,4-Tetrahydronaphthalene, water, unfiltered, recoverable, micrograms per liter
+1,2,3,4-Tetramethylbenzene, water, unfiltered, recoverable, micrograms per liter
+1,2,3,5-Tetramethylbenzene, water, unfiltered, recoverable, micrograms per liter
+1,2,3-Trichlorobenzene, water, unfiltered, recoverable, micrograms per liter
+1,2,3-Trichloropropane, water, unfiltered, recoverable, micrograms per liter
+1,2,3-Trimethylbenzene, water, unfiltered, recoverable, micrograms per liter
+1,2,4-Trichlorobenzene, water, unfiltered, recoverable, micrograms per liter
+1,2,4-Trimethylbenzene, water, unfiltered, recoverable, micrograms per liter
+1,2-Dibromo-3-chloropropane, water, unfiltered, recoverable, micrograms per liter
+1,2-Dibromoethane, water, unfiltered, recoverable, micrograms per liter
+1,2-Dichloro-1,1,2,2-tetrafluoroethane, water, unfiltered, recoverable, micrograms per liter
+1,2-Dichlorobenzene, water, unfiltered, recoverable, micrograms per liter
+1,2-Dichloroethane, water, unfiltered, recoverable, micrograms per liter
+1,2-Dichloropropane, water, unfiltered, recoverable, micrograms per liter
+1,2-Diphenylhydrazine, water, unfiltered, recoverable, micrograms per liter
+1,3,5-Trimethylbenzene, water, unfiltered, recoverable, micrograms per liter
+1,3-Butadiene, water, unfiltered, recoverable, micrograms per liter
+1,3-Dichlorobenzene, water, unfiltered, recoverable, micrograms per liter
+1,3-Dichloropropane, water, unfiltered, recoverable, micrograms per liter
+1,3-Dichloropropene, water, unfiltered, recoverable, micrograms per liter
+1,3-Dioxolane, water, unfiltered, recoverable, micrograms per liter
+1,4-Dichlorobenzene, water, unfiltered, recoverable, micrograms per liter
+1,4-Dioxane, water, unfiltered, recoverable, micrograms per liter
+1,7-Dimethylxanthine, water, filtered, recoverable, micrograms per liter
+1-Butanol, water, unfiltered, recoverable, micrograms per liter
+1-Chloro-1,1-difluoroethane, water, unfiltered, recoverable, micrograms per liter
+1-Methoxy-4-(2-propenyl)benzene, water, unfiltered, recoverable, micrograms per liter
+1-Methylnaphthalene, water, unfiltered, recoverable, micrograms per liter
+1-Naphthol, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+1-Octanol, water, unfiltered, recoverable, micrograms per liter
+2,2-Dichloro-1,1,1-trifluoroethane, water, unfiltered, recoverable, micrograms per liter
+2,2-Dichloropropane, water, unfiltered, recoverable, micrograms per liter
+2,4,5-T, water, filtered, recoverable, micrograms per liter
+2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+2,4,5-Trichlorophenol, water, unfiltered, recoverable, micrograms per liter
+2,4,6-Trichlorophenol, water, unfiltered, recoverable, micrograms per liter
+2,4-D methyl ester, water, filtered, recoverable, micrograms per liter
+2,4-D plus 2,4-D methyl ester, sum on a molar basis, micrograms per liter as 2,4-D
+2,4-D, water, filtered, recoverable, micrograms per liter
+2,4-D, water, unfiltered, recoverable, micrograms per liter
+2,4-DB, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+2,4-Dichlorophenol, water, unfiltered, recoverable, micrograms per liter
+2,4-Dimethylphenol, water, unfiltered, recoverable, micrograms per liter
+2,4-Dinitrophenol, water, unfiltered, recoverable, micrograms per liter
+2,4-Dinitrotoluene, water, unfiltered, recoverable, micrograms per liter
+2,6-Diethylaniline, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+2,6-Dimethyl-4-heptanone, water, unfiltered, recoverable, micrograms per liter
+2,6-Dimethylnaphthalene, water, unfiltered, recoverable, micrograms per liter
+2,6-Dinitrotoluene, water, unfiltered, recoverable, micrograms per liter
+2-Chloro-2',6'-diethylacetanilide, water, filtered, recoverable, micrograms per liter
+2-Chloro-4-isopropylamino-6-amino-s-triazine, water, filtered, recoverable, micrograms per liter
+2-Chloro-6-ethylamino-4-amino-s-triazine, water, filtered, recoverable, micrograms per liter
+2-Chloroethyl vinyl ether, water, unfiltered, recoverable, micrograms per liter
+2-Chloronaphthalene, water, unfiltered, recoverable, micrograms per liter
+2-Chlorophenol, water, unfiltered, recoverable, micrograms per liter
+2-Chlorotoluene, water, unfiltered, recoverable, micrograms per liter
+2-Ethoxyethyl acetate, water, unfiltered, recoverable, micrograms per liter
+2-Ethyl-6-methylaniline, water, filtered, recoverable, micrograms per liter
+2-Ethyltoluene, water, unfiltered, recoverable, micrograms per liter
+2-Hydroxy-4-isopropylamino-6-ethylamino-s-triazine, water, filtered, recoverable, micrograms per liter
+2-Methyl-4,6-dinitrophenol, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+2-Methyl-4,6-dinitrophenol, water, unfiltered, recoverable, micrograms per liter
+2-Methyl-4,6-dinitrophenol, water, unfiltered, recoverable, micrograms per liter
+2-Methylnaphthalene, water, unfiltered, recoverable, micrograms per liter
+2-Methylpropyl acetate, water, unfiltered, recoverable, micrograms per liter
+2-Nitroaniline, water, unfiltered, recoverable, micrograms per liter
+2-Nitrophenol, water, unfiltered, recoverable, micrograms per liter
+2-Nitropropane, water, unfiltered, recoverable, micrograms per liter
+2-Propen-1-ol, water, unfiltered, recoverable, micrograms per liter
+3,3'-Dichlorobenzidine, water, unfiltered, recoverable, micrograms per liter
+3,4-Dichloroaniline, water, filtered, recoverable, micrograms per liter
+3,4-Dichlorophenyl isocyanate, water, unfiltered, recoverable, micrograms per liter
+3,5-Dichloroaniline, water, filtered, recoverable, micrograms per liter
+3-Chloropropene, water, unfiltered, recoverable, micrograms per liter
+3-Hydroxy carbofuran, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+3-Methyl-1H-indole, water, unfiltered, recoverable, micrograms per liter
+3-Nitroaniline, water, unfiltered, recoverable, micrograms per liter
+3-beta-Coprostanol, water, unfiltered, recoverable, micrograms per liter
+3-tert-Butyl-4-hydroxyanisole, water, unfiltered, recoverable, micrograms per liter
+4-Bromophenyl phenyl ether, water, unfiltered, recoverable, micrograms per liter
+4-Chloro-2-methylphenol, water, filtered, recoverable, micrograms per liter
+4-Chloro-3-methylphenol, water, unfiltered, recoverable, micrograms per liter
+4-Chloroaniline, water, unfiltered, recoverable, micrograms per liter
+4-Chlorophenyl phenyl ether, water, unfiltered, recoverable, micrograms per liter
+4-Chlorotoluene, water, unfiltered, recoverable, micrograms per liter
+4-Cumylphenol, water, unfiltered, recoverable, micrograms per liter
+4-Isopropyltoluene, water, unfiltered, recoverable, micrograms per liter
+4-Methyl-2-pentanol, water, unfiltered, recoverable, micrograms per liter
+4-Nitroaniline, water, unfiltered, recoverable, micrograms per liter
+4-Nitrophenol, water, unfiltered, recoverable, micrograms per liter
+4-Nonylphenol (sum of all isomers), water, unfiltered, recoverable, micrograms per liter
+4-Nonylphenol diethoxylate (sum of all isomers), water, unfiltered, recoverable, micrograms per liter
+4-Nonylphenol monoethoxylate (sum of all isomers), water, unfiltered, recoverable, micrograms per liter
+4-n-Octylphenol, water, unfiltered, recoverable, micrograms per liter
+4-tert-Octylphenol diethoxylate, water, unfiltered, recoverable, micrograms per liter
+4-tert-Octylphenol monoethoxylate, water, unfiltered, recoverable, micrograms per liter
+4-tert-Octylphenol, water, unfiltered, recoverable, micrograms per liter
+5-Methyl-1H-benzotriazole, water, unfiltered, recoverable, micrograms per liter
+5-Methyl-2-hexanone, water, unfiltered, recoverable, micrograms per liter
+9,10-Anthraquinone, water, unfiltered, recoverable, micrograms per liter
+9H-Fluorene, water, unfiltered, recoverable, micrograms per liter
+ACHNANTHES              (4) USGS,ACL-74
+ACTINASTRUM             (4) USGS,ACL-74
+AMPHORA                 (4) USGS,ACL-74
+ANABAENA                (4) USGS,ACL-74
+ANABAENOPSIS            (4) USGS,ACL-74
+ANKISTRODESMUS          (4) USGS,ACL-74
+APHANIZOMENON           (4) USGS,ACL-74
+Acenaphthene, water, unfiltered, recoverable, micrograms per liter
+Acenaphthylene, water, unfiltered, recoverable, micrograms per liter
+Acetaminophen, water, filtered, recoverable, micrograms per liter
+Acetochlor, water, filtered, recoverable, micrograms per liter
+Acetone, water, unfiltered, recoverable, micrograms per liter
+Acetonitrile, water, unfiltered, recoverable, micrograms per liter
+Acetophenone, water, unfiltered, recoverable, micrograms per liter
+Acetyl hexamethyl tetrahydro naphthalene, water, unfiltered, recoverable, micrograms per liter
+Acid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+Acid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate
+Acid neutralizing capacity, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter as calcium carbonate
+Acifluorfen, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Acrylonitrile, water, unfiltered, recoverable, micrograms per liter
+Alachlor, water, filtered, recoverable, micrograms per liter
+Alachlor, water, unfiltered, recoverable, micrograms per liter
+Albuterol, water, filtered, recoverable, micrograms per liter
+Aldicarb sulfone, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Aldicarb sulfoxide, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Aldicarb, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Aldrin, water, unfiltered, recoverable, micrograms per liter
+Alkalinity, water, filtered, Gran titration, field, milligrams per liter as calcium carbonate
+Alkalinity, water, filtered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+Alkalinity, water, filtered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate
+Alkalinity, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter as calcium carbonate
+Aluminum, water, filtered, micrograms per liter
+Aluminum, water, unfiltered, recoverable, micrograms per liter
+Ametryn, water, unfiltered, recoverable, micrograms per liter
+Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as NH4
+Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen
+Ammonia (NH3 + NH4+), water, unfiltered, milligrams per liter as NH4
+Ammonia (NH3 + NH4+), water, unfiltered, milligrams per liter as nitrogen
+Ammonia plus organic nitrogen, suspended sediment, total, milligrams per liter as nitrogen
+Ammonia plus organic nitrogen, water, filtered, milligrams per liter as nitrogen
+Ammonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+Anthracene, water, unfiltered, recoverable, micrograms per liter
+Antimony, water, filtered, micrograms per liter
+Arsenic, suspended sediment, total, micrograms per liter
+Arsenic, water, filtered, micrograms per liter
+Arsenic, water, unfiltered, micrograms per liter
+Arsenite, water, filtered, micrograms per liter as arsenic
+Atraton, water, unfiltered, recoverable, micrograms per liter
+Atrazine, water, filtered, recoverable, micrograms per liter
+Atrazine, water, unfiltered, recoverable, micrograms per liter
+Azinphos-methyl oxygen analog, water, filtered, recoverable, micrograms per liter
+Azinphos-methyl, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+BDE congener 47, water, unfiltered, recoverable, micrograms per liter
+Barium, suspended sediment, recoverable, micrograms per liter
+Barium, water, filtered, micrograms per liter
+Barium, water, unfiltered, recoverable, micrograms per liter
+Bendiocarb, water, filtered, recoverable, micrograms per liter
+Benfluralin, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Benomyl, water, filtered, recoverable, micrograms per liter
+Bensulfuron-methyl, water, filtered, recoverable, micrograms per liter
+Bentazon, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Benzene, water, unfiltered, recoverable, micrograms per liter
+Benzo[a]anthracene, water, unfiltered, recoverable, micrograms per liter
+Benzo[a]pyrene, water, unfiltered, recoverable, micrograms per liter
+Benzo[b]fluoranthene, water, unfiltered, recoverable, micrograms per liter
+Benzo[ghi]perylene, water, unfiltered, recoverable, micrograms per liter
+Benzo[k]fluoranthene, water, unfiltered, recoverable, micrograms per liter
+Benzoic acid, water, unfiltered, recoverable, micrograms per liter
+Benzophenone, water, unfiltered, recoverable, micrograms per liter
+Benzyl n-butyl phthalate, water, unfiltered, recoverable, micrograms per liter
+Beryllium, water, filtered, micrograms per liter
+Bicarbonate, water, filtered, Gran titration, field, milligrams per liter
+Bicarbonate, water, filtered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+Bicarbonate, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Bicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+Bicarbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Bicarbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Biochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+Bis(2-chloro-1-methylethyl) ether, water, unfiltered, recoverable, micrograms per liter
+Bis(2-chloroethoxy)methane, water, unfiltered, recoverable, micrograms per liter
+Bis(2-chloroethyl) ether, water, unfiltered, recoverable, micrograms per liter
+Bis(2-chloroisopropyl) ether, water, unfiltered, recoverable, micrograms per liter
+Bis(2-ethylhexyl) phthalate, water, unfiltered, recoverable, micrograms per liter
+Bisphenol A, water, unfiltered, recoverable, micrograms per liter
+Boron, water, filtered, micrograms per liter
+Bromacil, water, filtered, recoverable, micrograms per liter
+Bromacil, water, unfiltered, recoverable, micrograms per liter
+Bromide, water, filtered, milligrams per liter
+Bromobenzene, water, unfiltered, recoverable, micrograms per liter
+Bromochloromethane, water, unfiltered, recoverable, micrograms per liter
+Bromodichloromethane, water, unfiltered, recoverable, micrograms per liter
+Bromoethene, water, unfiltered, recoverable, micrograms per liter
+Bromomethane, water, unfiltered, recoverable, micrograms per liter
+Bromoxynil, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Butanal, water, unfiltered, recoverable, micrograms per liter
+Butane, water, unfiltered, recoverable, micrograms per liter
+Butylate, water, filtered, recoverable, micrograms per liter
+CARTERIA                (4) USGS,ACL-74
+CHLAMYDOMONADACEAE      (3) USGS,ACL-74
+CHLAMYDOMONAS           (4) USGS,ACL-74
+CHLORELLA               (4) USGS,ACL-74
+CHLOROGONIUM            (4) USGS,ACL-74
+CHODATELLA              (4) USGS,ACL-74
+CHROOMONAS              (4) USGS,ACL-74
+CLADOPHORA              (4) USGS,ACL-74
+CLOSTERIOPSIS           (4) USGS,ACL-74
+CLOSTERIUM              (4) USGS,ACL-74
+COCCONEIS               (4) USGS,ACL-74
+COELASTRUM              (4) USGS,ACL-74
+COLEOCHAETE             (4) USGS,ACL-74
+COSMARIUM               (4) USGS,ACL-74
+CRUCIGENIA              (4) USGS,ACL-74
+CRYPTOMONAS             (4) USGS,ACL-74
+CRYPTOMONAS             (4) USGS,ACL-74 -96416
+CYCLOTELLA              (4) USGS,ACL-74
+CYLINDROSPERMUM         (4) USGS,ACL-74
+CYMBELLA                (4) USGS,ACL-74
+Cadmium, suspended sediment, recoverable, micrograms per liter
+Cadmium, water, filtered, micrograms per liter
+Cadmium, water, unfiltered, micrograms per liter
+Caffeine, water, filtered, recoverable, micrograms per liter
+Caffeine, water, unfiltered, recoverable, micrograms per liter
+Calcium, water, filtered, milligrams per liter
+Camphor, water, unfiltered, recoverable, micrograms per liter
+Carbamazepine, water, filtered, recoverable, micrograms per liter
+Carbaryl, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Carbaryl, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Carbaryl, water, unfiltered, recoverable, micrograms per liter
+Carbazole, water, unfiltered, recoverable, micrograms per liter
+Carbofuran, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Carbofuran, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Carbon dioxide, water, unfiltered, milligrams per liter
+Carbon disulfide, water, unfiltered, micrograms per liter
+Carbonate, water, filtered, Gran titration, field, milligrams per liter
+Carbonate, water, filtered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+Carbonate, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Carbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter as calcium carbonate
+Carbophenothion, water, unfiltered, recoverable, micrograms per liter
+Chemical oxygen demand, high level, water, unfiltered, milligrams per liter
+Chemical oxygen demand, low level, water, unfiltered, milligrams per liter
+Chloramben methyl ester, water, filtered, recoverable, micrograms per liter
+Chlordane (technical), water, unfiltered, recoverable, micrograms per liter
+Chloride, water, filtered, milligrams per liter
+Chlorimuron-ethyl, water, filtered, recoverable, micrograms per liter
+Chlorine (total residual), water, unfiltered, milligrams per liter
+Chlorobenzene, water, unfiltered, recoverable, micrograms per liter
+Chlorodifluoromethane, water, unfiltered, recoverable, micrograms per liter
+Chloroethane, water, unfiltered, recoverable, micrograms per liter
+Chloromethane, water, unfiltered, recoverable, micrograms per liter
+Chlorophyll a, phytoplankton, chromatographic-fluorometric method, micrograms per liter
+Chloropicrin, water, unfiltered, recoverable, micrograms per liter
+Chlorothalonil, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Chlorpyrifos oxygen analog, water, filtered, recoverable, micrograms per liter
+Chlorpyrifos, water, filtered, recoverable, micrograms per liter
+Chlorpyrifos, water, unfiltered, recoverable, micrograms per liter
+Cholesterol, water, unfiltered, recoverable, micrograms per liter
+Chromium(VI), water, filtered, micrograms per liter as Cr
+Chromium, suspended sediment, recoverable, micrograms per liter
+Chromium, water, filtered, micrograms per liter
+Chromium, water, unfiltered, recoverable, micrograms per liter
+Chrysene, water, unfiltered, recoverable, micrograms per liter
+Clopyralid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Cobalt, suspended sediment, recoverable, micrograms per liter
+Cobalt, water, filtered, micrograms per liter
+Cobalt, water, unfiltered, recoverable, micrograms per liter
+Codeine, water, filtered, recoverable, micrograms per liter
+Coliphage, F-specific, E. coli FAMP-host, 2-step enrichment, water, presence or absence per liter
+Coliphage, somatic, E. coli CN13-host, 2-step enrichment, water, presence or absence per liter
+Copper, suspended sediment, recoverable, micrograms per liter
+Copper, water, filtered, micrograms per liter
+Copper, water, unfiltered, recoverable, micrograms per liter
+Cotinine, water, filtered, recoverable, micrograms per liter
+Cotinine, water, unfiltered, recoverable, micrograms per liter
+Cyanazine, water, filtered, recoverable, micrograms per liter
+Cyanazine, water, unfiltered, recoverable, micrograms per liter
+Cyanide, water, unfiltered, milligrams per liter
+Cycloate, water, filtered, recoverable, micrograms per liter
+Cyfluthrin, water, filtered, recoverable, micrograms per liter
+Cypermethrin, water, filtered, recoverable, micrograms per liter
+Cyprazine, water, unfiltered, recoverable, micrograms per liter
+D-Limonene, water, unfiltered, recoverable, micrograms per liter
+DCPA monoacid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+DCPA, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+DENTICULA               (4) USGS,ACL-74
+DIATOMA                 (4) USGS,ACL-74
+DICTYOSPHAERIUM         (4) USGS,ACL-74
+DIPLONEIS               (4) USGS,ACL-74
+Dehydronifedipine, water, filtered, recoverable, micrograms per liter
+Desulfinylfipronil amide, water, filtered, recoverable, micrograms per liter
+Desulfinylfipronil, water, filtered, recoverable, micrograms per liter
+Di-n-butyl phthalate, water, unfiltered, recoverable, micrograms per liter
+Di-n-octyl phthalate, water, unfiltered, recoverable, micrograms per liter
+Diazinon, water, filtered, recoverable, micrograms per liter
+Diazinon, water, unfiltered, recoverable, micrograms per liter
+Diazoxon, water, filtered, recoverable, micrograms per liter
+Dibenzo[a,h]anthracene, water, unfiltered, recoverable, micrograms per liter
+Dibenzofuran, water, unfiltered, recoverable, micrograms per liter
+Dibromochloromethane, water, unfiltered, recoverable, micrograms per liter
+Dibromomethane, water, unfiltered, recoverable, micrograms per liter
+Dicamba, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Dichlobenil, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Dichlorodifluoromethane, water, unfiltered, recoverable, micrograms per liter
+Dichlorofluoromethane, water, unfiltered, recoverable, micrograms per liter
+Dichloromethane, water, unfiltered, recoverable, micrograms per liter
+Dichlorprop, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Dichlorvos, water, filtered, recoverable, micrograms per liter
+Dichlorvos, water, unfiltered, recoverable, micrograms per liter
+Dicrotophos, water, filtered, recoverable, micrograms per liter
+Dieldrin, water, filtered, recoverable, micrograms per liter
+Dieldrin, water, unfiltered, recoverable, micrograms per liter
+Diethyl ether, water, unfiltered, recoverable, micrograms per liter
+Diethyl phthalate, water, unfiltered, recoverable, micrograms per liter
+Diisopropyl ether, water, unfiltered, recoverable, micrograms per liter
+Diltiazem, water, filtered, recoverable, micrograms per liter
+Dimethoate, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Dimethoxymethane, water, unfiltered, recoverable, micrograms per liter
+Dimethyl phthalate, water, unfiltered, recoverable, micrograms per liter
+Dinoseb, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Diphenamid, water, filtered, recoverable, micrograms per liter
+Diphenhydramine, water, filtered, recoverable, micrograms per liter
+Dissolved oxygen, water, unfiltered, milligrams per liter
+Dissolved solids dried at 105 degrees Celsius, water, filtered, milligrams per liter
+Dissolved solids dried at 180 degrees Celsius, water, filtered, milligrams per liter
+Dissolved solids, water, filtered, sum of constituents, milligrams per liter
+Disulfoton sulfone, water, filtered, recoverable, micrograms per liter
+Disulfoton, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Diuron, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+ELAKATOTHRIX            (4) USGS,ACL-74
+EPITHEMIA               (4) USGS,ACL-74
+EPTC, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+EUDORINA                (4) USGS,ACL-74
+EUGLENA                 (4) USGS,ACL-74
+Endosulfan sulfate, water, filtered, recoverable, micrograms per liter
+Endrin, water, unfiltered, recoverable, micrograms per liter
+Ethalfluralin, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Ethane, water, dissolved, recoverable, milligrams per liter
+Ethion monoxon, water, filtered, recoverable, micrograms per liter
+Ethion, water, filtered, recoverable, micrograms per liter
+Ethion, water, unfiltered, recoverable, micrograms per liter
+Ethoprop, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Ethyl acetate, water, unfiltered, recoverable, micrograms per liter
+Ethyl methacrylate, water, unfiltered, recoverable, micrograms per liter
+Ethylbenzene, water, unfiltered, recoverable, micrograms per liter
+FRAGILARIA              (4) USGS,ACL-74
+FRANCEIA                (4) USGS,ACL-74 -96203
+Fenamiphos sulfone, water, filtered, recoverable, micrograms per liter
+Fenamiphos sulfoxide, water, filtered, recoverable, micrograms per liter
+Fenamiphos, water, filtered, recoverable, micrograms per liter
+Fenuron, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Fipronil sulfide, water, filtered, recoverable, micrograms per liter
+Fipronil sulfone, water, filtered, recoverable, micrograms per liter
+Fipronil, water, filtered, recoverable, micrograms per liter
+Flumetsulam, water, filtered, recoverable, micrograms per liter
+Fluometuron, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Fluoranthene, water, unfiltered, recoverable, micrograms per liter
+Fluoride, water, filtered, micrograms per liter
+Fluoride, water, filtered, milligrams per liter
+Fonofos, water, filtered, recoverable, micrograms per liter
+GLENODINIUM             (4) USGS,ACL-74
+GLOEOCYSTIS             (4) USGS,ACL-74
+GOLENKINIA              (4) USGS,ACL-74
+GOMPHONEMA              (4) USGS,ACL-74
+Gross alpha radioactivity, 30 day count, water, filtered, Th-230 curve, picocuries per liter
+Gross alpha radioactivity, 72 hour count, water, filtered, Th-230 curve, picocuries per liter
+Gross beta radioactivity, 30 day count, water, filtered, Cs-137 curve, picocuries per liter
+Gross beta radioactivity, 72 hour count, water, filtered, Cs-137 curve, picocuries per liter
+HANTZSCHIA              (4) USGS,ACL-74
+Hardness, water, milligrams per liter as calcium carbonate
+Heptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+Heptachlor, water, unfiltered, recoverable, micrograms per liter
+Hexachlorobenzene, water, unfiltered, recoverable, micrograms per liter
+Hexachlorobutadiene, water, unfiltered, recoverable, micrograms per liter
+Hexachlorobutadiene, water, unfiltered, recoverable, micrograms per liter
+Hexachlorocyclopentadiene, water, unfiltered, recoverable, micrograms per liter
+Hexachloroethane, water, unfiltered, recoverable, micrograms per liter
+Hexahydrohexamethyl cyclopentabenzopyran, water, unfiltered, recoverable, micrograms per liter
+Hexane, water, unfiltered, recoverable, micrograms per liter
+Hexazinone, water, filtered, recoverable, micrograms per liter
+Hydrogen ion, water, unfiltered, calculated, milligrams per liter
+Hydrogen sulfide, water, unfiltered, milligrams per liter
+Hydroxide, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Hydroxide, water, unfiltered, fixed endpoint (pH 10.4) titration, field, milligrams per liter
+Hydroxide, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter
+Imazaquin, water, filtered, recoverable, micrograms per liter
+Imazethapyr, water, filtered, recoverable, micrograms per liter
+Imidacloprid, water, filtered, recoverable, micrograms per liter
+Indeno[1,2,3-cd]pyrene, water, unfiltered, recoverable, micrograms per liter
+Indole, water, unfiltered, recoverable, micrograms per liter
+Inorganic arsenic(III), water, filtered (0.45 micron filter), micrograms per liter as arsenic
+Iodide, water, filtered, milligrams per liter
+Iodomethane, water, unfiltered, recoverable, micrograms per liter
+Iprodione, water, filtered, recoverable, micrograms per liter
+Iron(II) plus Iron(III), water, filtered, micrograms per liter
+Iron(II), water, filtered, micrograms per liter
+Iron, suspended sediment, recoverable, micrograms per liter
+Iron, water, filtered, micrograms per liter
+Iron, water, unfiltered, recoverable, micrograms per liter
+Isoborneol, water, unfiltered, recoverable, micrograms per liter
+Isobutyl methyl ketone, water, unfiltered, recoverable, micrograms per liter
+Isofenphos, water, filtered, recoverable, micrograms per liter
+Isophorone, water, unfiltered, recoverable, micrograms per liter
+Isopropyl acetate, water, unfiltered, recoverable, micrograms per liter
+Isopropylbenzene, water, unfiltered, recoverable, micrograms per liter
+Isoquinoline, water, unfiltered, recoverable, micrograms per liter
+KIRCHNERIELLA           (4) USGS,ACL-74
+LOBOMONAS               (4) USGS,ACL-74
+Lead, suspended sediment, recoverable, micrograms per liter
+Lead, water, filtered, micrograms per liter
+Lead, water, unfiltered, recoverable, micrograms per liter
+Lindane, water, filtered, recoverable, micrograms per liter
+Lindane, water, unfiltered, recoverable, micrograms per liter
+Linuron, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Linuron, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Lithium, water, filtered, micrograms per liter
+Loss on ignition of dissolved solids, water, filtered, milligrams per liter
+Loss on ignition of suspended solids, water, unfiltered, milligrams per liter
+MALLOMONAS              (4) USGS,ACL-74
+MCPA, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+MCPB, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+MELOSIRA                (4) USGS,ACL-74
+MERIDION                (4) USGS,ACL-74
+MICRACTINIUM            (4) USGS,ACL-74
+MICROSPORA              (4) USGS,ACL-74
+Magnesium, water, filtered, milligrams per liter
+Malaoxon, water, filtered, recoverable, micrograms per liter
+Malathion, water, filtered, recoverable, micrograms per liter
+Malathion, water, unfiltered, recoverable, micrograms per liter
+Manganese, suspended sediment, recoverable, micrograms per liter
+Manganese, water, filtered, micrograms per liter
+Manganese, water, unfiltered, recoverable, micrograms per liter
+Menthol, water, unfiltered, recoverable, micrograms per liter
+Mercury, suspended sediment, recoverable, micrograms per liter
+Mercury, water, filtered, micrograms per liter
+Mercury, water, unfiltered, recoverable, micrograms per liter
+Metalaxyl, water, filtered, recoverable, micrograms per liter
+Metalaxyl, water, filtered, recoverable, micrograms per liter
+Metalaxyl, water, unfiltered, recoverable, micrograms per liter
+Methane, water, dissolved, recoverable, milligrams per liter
+Methidathion, water, filtered, recoverable, micrograms per liter
+Methiocarb, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Methomyl, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Methyl acetate, water, unfiltered, recoverable, micrograms per liter
+Methyl acrylate, water, unfiltered, recoverable, micrograms per liter
+Methyl acrylonitrile, water, unfiltered, recoverable, micrograms per liter
+Methyl ethyl ketone, water, unfiltered, recoverable, micrograms per liter
+Methyl methacrylate, water, unfiltered, recoverable, micrograms per liter
+Methyl paraoxon, water, filtered, recoverable, micrograms per liter
+Methyl parathion, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Methyl parathion, water, unfiltered, recoverable, micrograms per liter
+Methyl salicylate, water, unfiltered, recoverable, micrograms per liter
+Methyl tert-butyl ether, water, unfiltered, recoverable, micrograms per liter
+Methyl tert-pentyl ether, water, unfiltered, recoverable, micrograms per liter
+Methyl trithion, water, unfiltered, recoverable, micrograms per liter
+Methylene blue active substances, water, unfiltered, recoverable, milligrams per liter
+Metolachlor, water, filtered, recoverable, micrograms per liter
+Metolachlor, water, unfiltered, recoverable, micrograms per liter
+Metribuzin, water, filtered, recoverable, micrograms per liter
+Metribuzin, water, unfiltered, recoverable, micrograms per liter
+Metsulfuron-methyl, water, filtered, recoverable, micrograms per liter
+Molinate, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Molybdenum, water, filtered, micrograms per liter
+Myclobutanil, water, filtered, recoverable, micrograms per liter
+N,N-Diethyl-m-toluamide (DEET), water, unfiltered, recoverable, micrograms per liter
+N-(4-Chlorophenyl)-N'-methylurea, water, filtered, recoverable, micrograms per liter
+N-Nitrosodi-n-propylamine, water, unfiltered, recoverable, micrograms per liter
+N-Nitrosodiethylamine, water, unfiltered, recoverable, micrograms per liter
+N-Nitrosodimethylamine (NDMA), water, unfiltered, recoverable, micrograms per liter
+N-Nitrosodimethylamine (NDMA), water, unfiltered, recoverable, nanograms per liter
+N-Nitrosodiphenylamine, water, unfiltered, recoverable, micrograms per liter
+NAVICULA                (4) USGS,ACL-74
+NEPHROCYTIUM            (4) USGS,ACL-74
+NITZSCHIA               (4) USGS,ACL-74
+Naphthalene, water, unfiltered, recoverable, micrograms per liter
+Napropamide, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Neburon, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Nickel, suspended sediment, recoverable, micrograms per liter
+Nickel, water, filtered, micrograms per liter
+Nickel, water, unfiltered, recoverable, micrograms per liter
+Nicosulfuron, water, filtered, recoverable, micrograms per liter
+Nitrate plus nitrite, water, filtered, milligrams per liter as nitrogen
+Nitrate plus nitrite, water, unfiltered, milligrams per liter as nitrogen
+Nitrate, water, filtered, milligrams per liter as nitrate
+Nitrate, water, filtered, milligrams per liter as nitrogen
+Nitrate, water, unfiltered, milligrams per liter as nitrate
+Nitrate, water, unfiltered, milligrams per liter as nitrogen
+Nitrite, water, filtered, milligrams per liter as nitrite
+Nitrite, water, filtered, milligrams per liter as nitrogen
+Nitrite, water, unfiltered, milligrams per liter as nitrogen
+Nitrobenzene, water, unfiltered, recoverable, micrograms per liter
+Noncarbonate hardness, water, filtered, field, milligrams per liter as calcium carbonate
+Noncarbonate hardness, water, filtered, lab, milligrams per liter as calcium carbonate
+Noncarbonate hardness, water, milligrams per liter as calcium carbonate
+Noncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+Norflurazon, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+OCHROMONAS              (4) USGS,ACL-74
+OEDOGONIUM              (4) USGS,ACL-74
+OOCYSTIS                (4) USGS,ACL-74
+Oil and grease, water, unfiltered, freon extraction, gravimetric, recoverable, milligrams per liter
+Oil and grease, water, unfiltered, recoverable, milligrams per liter
+Organic carbon, suspended sediment, total, milligrams per liter
+Organic carbon, water, filtered, milligrams per liter
+Organic carbon, water, unfiltered, milligrams per liter
+Organic nitrogen, water, filtered, milligrams per liter as nitrogen
+Organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+Orthophosphate, water, filtered, milligrams per liter as PO4
+Orthophosphate, water, filtered, milligrams per liter as phosphorus
+Orthophosphate, water, unfiltered, milligrams per liter as phosphorus
+Oryzalin, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Oxamyl, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Oxyfluorfen, water, filtered, recoverable, micrograms per liter
+PCBs, water, unfiltered, recoverable, micrograms per liter
+PEDIASTRUM              (4) USGS,ACL-74
+PHACOTUS                (4) USGS,ACL-74
+PHACUS                  (4) USGS,ACL-74
+PLECTONEMA              (4) USGS,ACL-74
+PTEROMONAS              (4) USGS,ACL-74
+Parathion, water, filtered, recoverable, micrograms per liter
+Parathion, water, unfiltered, recoverable, micrograms per liter
+Pebulate, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Pendimethalin, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Pentachlorophenol, water, unfiltered, recoverable, micrograms per liter
+Perchlorate, water, filtered, micrograms per liter
+Perchlorate, water, unfiltered, micrograms per liter
+Phenanthrene, water, unfiltered, recoverable, micrograms per liter
+Phenol, water, unfiltered, recoverable, micrograms per liter
+Phenolic compounds, water, unfiltered, recoverable, micrograms per liter
+Pheophytin a, phytoplankton, micrograms per liter
+Phorate oxygen analog, water, filtered, recoverable, micrograms per liter
+Phorate, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Phosmet oxygen analog, water, filtered, recoverable, micrograms per liter
+Phosmet, water, filtered, recoverable, micrograms per liter
+Phosphate, water, unfiltered, milligrams per liter as PO4
+Phosphorus, water, filtered, milligrams per liter as phosphorus
+Phosphorus, water, unfiltered, milligrams per liter as PO4
+Phosphorus, water, unfiltered, milligrams per liter as phosphorus
+Picloram, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Polychlorinated naphthalenes, water, unfiltered, recoverable, micrograms per liter
+Potassium, water, filtered, milligrams per liter
+Potassium-40, water, filtered, picocuries per liter
+Prometon, water, filtered, recoverable, micrograms per liter
+Prometon, water, unfiltered, recoverable, micrograms per liter
+Prometryn, water, filtered, recoverable, micrograms per liter
+Prometryn, water, unfiltered, recoverable, micrograms per liter
+Propachlor, water, filtered, recoverable, micrograms per liter
+Propane, water, dissolved, recoverable, milligrams per liter
+Propanil, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Propargite, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Propazine, water, unfiltered, recoverable, micrograms per liter
+Propham, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Propiconazole, water, filtered, recoverable, micrograms per liter
+Propoxur, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Propyzamide, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Pyrene, water, unfiltered, recoverable, micrograms per liter
+QUADRIGULA              (4) USGS,ACL-74
+Radium-224, water, filtered, picocuries per liter
+Radium-226, water, filtered, picocuries per liter
+Radium-226, water, filtered, radon method, picocuries per liter
+Radium-228, water, filtered, picocuries per liter
+Radon-222 2-sigma combined uncertainty, water, unfiltered, picocuries per liter
+Radon-222, water, unfiltered, picocuries per liter
+SCENEDESMACEAE          (3) USGS,ACL-74
+SCENEDESMUS             (4) USGS,ACL-74
+SCHROEDERIA             (4) USGS,ACL-74
+SELENASTRUM             (4) USGS,ACL-74
+STAURASTRUM             (4) USGS,ACL-74
+STEPHANODISCUS          (4) USGS,ACL-74
+STIGEOCLONIUM           (4) USGS,ACL-74
+SURIRELLA               (4) USGS,ACL-74
+SYNEDRA                 (4) USGS,ACL-74
+Selenium, suspended sediment, total, micrograms per liter
+Selenium, water, filtered, micrograms per liter
+Selenium, water, unfiltered, micrograms per liter
+Siduron, water, filtered, recoverable, micrograms per liter
+Silica, water, filtered, milligrams per liter as SiO2
+Silver, suspended sediment, recoverable, micrograms per liter
+Silver, water, filtered, micrograms per liter
+Silver, water, unfiltered, recoverable, micrograms per liter
+Silvex, water, filtered, recoverable, micrograms per liter
+Silvex, water, unfiltered, recoverable, micrograms per liter
+Simazine, water, filtered, recoverable, micrograms per liter
+Simazine, water, unfiltered, recoverable, micrograms per liter
+Simetone, water, unfiltered, recoverable, micrograms per liter
+Simetryn, water, unfiltered, recoverable, micrograms per liter
+Sodium plus potassium, water, filtered, milligrams per liter as sodium
+Sodium, water, filtered, milligrams per liter
+Specific UV absorbance at 254 nm of hydrophilic acid fraction of DOC, water, filtered, 100 times the absorbance per centimeter per milligram per liter of hydrophilic acid
+Specific UV absorbance at 254 nm of hydrophobic acid fraction of DOC, water, filtered, 100 times the absorbance per centimeter per milligram per liter of hydrophobic acid
+Strontium, water, filtered, micrograms per liter
+Styrene, water, unfiltered, recoverable, micrograms per liter
+Sulfamethoxazole, water, filtered, recoverable, micrograms per liter
+Sulfate, water, filtered, milligrams per liter
+Sulfide, water, filtered, field, milligrams per liter
+Sulfide, water, filtered, milligrams per liter
+Sulfide, water, unfiltered, field, milligrams per liter
+Sulfide, water, unfiltered, milligrams per liter
+Sulfometuron-methyl, water, filtered, recoverable, micrograms per liter
+Suspended sediment concentration, milligrams per liter
+Suspended solids remaining after ignition, water, unfiltered, milligrams per liter
+Suspended solids, water, unfiltered, milligrams per liter
+TABELLARIA              (4) USGS,ACL-74
+TETRAEDRON              (4) USGS,ACL-74
+TETRASTRUM              (4) USGS,ACL-74
+TRACHELOMONAS           (4) USGS,ACL-74
+Tebuthiuron, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Tefluthrin, water, filtered, recoverable, micrograms per liter
+Terbacil, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Terbacil, water, filtered, recoverable, micrograms per liter
+Terbufos oxygen analog sulfone, water, filtered, recoverable, micrograms per liter
+Terbufos, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Terbuthylazine, water, filtered, recoverable, micrograms per liter
+Tetrachloroethene, water, unfiltered, recoverable, micrograms per liter
+Tetrachloromethane, water, unfiltered, recoverable, micrograms per liter
+Tetrahydrofuran, water, unfiltered, recoverable, micrograms per liter
+Thallium, water, filtered, micrograms per liter
+Thiabendazole, water, filtered, recoverable, micrograms per liter
+Thiobencarb, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Toluene, water, unfiltered, recoverable, micrograms per liter
+Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, filtered, analytically determined, milligrams per liter
+Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, filtered, milligrams per liter
+Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, analytically determined, milligrams per liter
+Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter
+Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter as nitrate
+Total solids remaining after ignition, water, unfiltered, milligrams per liter
+Toxaphene, water, unfiltered, recoverable, micrograms per liter
+Triallate, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Tribenuron-methyl, water, filtered, recoverable, micrograms per liter
+Tribromomethane, water, unfiltered, recoverable, micrograms per liter
+Tribufos, water, filtered, recoverable, micrograms per liter
+Tributyl phosphate, water, unfiltered, recoverable, micrograms per liter
+Trichloroethene, water, unfiltered, recoverable, micrograms per liter
+Trichlorofluoromethane, water, unfiltered, recoverable, micrograms per liter
+Trichloromethane, water, unfiltered, recoverable, micrograms per liter
+Triclopyr, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Triclosan, water, unfiltered, recoverable, micrograms per liter
+Triethyl citrate, water, unfiltered, recoverable, micrograms per liter
+Trifluralin, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+Trifluralin, water, unfiltered, recoverable, micrograms per liter
+Trihalomethanes, water, unfiltered, maximum summation, micrograms per liter
+Trihalomethanes, water, unfiltered, minimum summation, micrograms per liter
+Trimethoprim, water, filtered, recoverable, micrograms per liter
+Triphenyl phosphate, water, unfiltered, recoverable, micrograms per liter
+Tris(2-butoxyethyl) phosphate, water, unfiltered, recoverable, micrograms per liter
+Tris(2-chloroethyl) phosphate, water, unfiltered, recoverable, micrograms per liter
+Tris(dichloroisopropyl) phosphate, water, unfiltered, recoverable, micrograms per liter
+Tritium 2-sigma combined uncertainty, water, unfiltered, picocuries per liter
+Tritium, water, unfiltered, picocuries per liter
+Tungsten, water, filtered, micrograms per liter
+Turbidity, water, unfiltered, Hellige turbidimeter, milligrams per liter as silicon dioxide
+UROGLENOPSIS            (4) USGS,ACL-74
+URONEMA                 (4) USGS,ACL-74
+Uranium (natural), water, filtered, micrograms per liter
+Uranium-234, water, filtered, picocuries per liter
+Uranium-235, water, filtered, picocuries per liter
+Uranium-238, water, filtered, picocuries per liter
+Vanadium, water, filtered, micrograms per liter
+Vinyl chloride, water, unfiltered, recoverable, micrograms per liter
+Warfarin, water, filtered, recoverable, micrograms per liter
+Xylene (all isomers), water, unfiltered, recoverable, micrograms per liter
+Zinc, suspended sediment, recoverable, micrograms per liter
+Zinc, water, filtered, micrograms per liter
+Zinc, water, unfiltered, recoverable, micrograms per liter
+alpha-Endosulfan, water, filtered, recoverable, micrograms per liter
+alpha-Endosulfan, water, unfiltered, recoverable, micrograms per liter
+alpha-HCH, water, filtered, recoverable, micrograms per liter
+alpha-Terpineol, water, unfiltered, recoverable, micrograms per liter
+beta-Sitosterol, water, unfiltered, recoverable, micrograms per liter
+beta-Stigmastanol, water, unfiltered, recoverable, micrograms per liter
+cis-1,2-Dichloroethene, water, unfiltered, recoverable, micrograms per liter
+cis-1,3-Dichloropropene, water, unfiltered, recoverable, micrograms per liter
+cis-Permethrin, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+cis-Propiconazole, water, filtered, recoverable, micrograms per liter
+lambda-Cyhalothrin, water, filtered, recoverable, micrograms per liter
+m-Xylene plus p-xylene, water, unfiltered, recoverable, micrograms per liter
+n-Butyl methyl ketone, water, unfiltered, recoverable, micrograms per liter
+n-Butylbenzene, water, unfiltered, recoverable, micrograms per liter
+n-Pentanal, water, unfiltered, recoverable, micrograms per liter
+n-Pentane, water, unfiltered, recoverable, micrograms per liter
+n-Propylbenzene, water, unfiltered, recoverable, micrograms per liter
+o-Cresol, water, unfiltered, recoverable, micrograms per liter
+o-Xylene, water, unfiltered, recoverable, micrograms per liter
+p,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+p,p'-DDE, water, filtered, recoverable, micrograms per liter
+p,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+p,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+p-Cresol, water, unfiltered, recoverable, micrograms per liter
+sec-Butylbenzene, water, unfiltered, recoverable, micrograms per liter
+tert-Amyl alcohol, water, unfiltered, recoverable, micrograms per liter
+tert-Butyl alcohol, water, unfiltered, recoverable, micrograms per liter
+tert-Butyl ethyl ether, water, unfiltered, recoverable, micrograms per liter
+tert-Butylbenzene, water, unfiltered, recoverable, micrograms per liter
+trans-1,2-Dichloroethene, water, unfiltered, recoverable, micrograms per liter
+trans-1,3-Dichloropropene, water, unfiltered, recoverable, micrograms per liter
+trans-1,4-Dichloro-2-butene, water, unfiltered, recoverable, micrograms per liter
+trans-Crotonaldehyde, water, unfiltered, recoverable, micrograms per liter
+trans-Propiconazole, water, filtered, recoverable, micrograms per liter

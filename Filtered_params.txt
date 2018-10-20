@@ -1,0 +1,189 @@
+color	p00080
+carbonate	p00452	p29807	p63788
+bicarbonate	p00453	p29804	p63786
+dissolved solids dried at 105 degrees celsius	p00515
+loss on ignition of dissolved solids	p00520
+total nitrogen [nitrate + nitrite + ammonia + organic-n]	p00602	p62854
+organic nitrogen	p00607
+ammonia (nh3 + nh4+)	p00608	p71846
+nitrite	p00613	p71856
+nitrate	p00618	p71851
+ammonia plus organic nitrogen	p00623
+nitrate plus nitrite	p00631
+orthophosphate	p00660	p00671
+phosphorus	p00666
+organic carbon	p00681
+sulfide	p00746	p99118
+noncarbonate hardness	p00904	p00905
+calcium	p00915
+magnesium	p00925
+sodium	p00930
+sodium plus potassium	p00933
+potassium	p00935
+chloride	p00940
+sulfate	p00945
+fluoride	p00950	p91002
+silica	p00955
+arsenic	p01000
+barium	p01005
+beryllium	p01010
+boron	p01020
+cadmium	p01025
+chromium	p01030
+chromium(vi)	p01032
+cobalt	p01035
+copper	p01040
+iron	p01046
+iron(ii)	p01047
+iron(ii) plus iron(iii)	p01048
+lead	p01049
+manganese	p01056
+thallium	p01057
+molybdenum	p01060
+nickel	p01065
+silver	p01075
+strontium	p01080
+vanadium	p01085
+zinc	p01090
+antimony	p01095
+aluminum	p01106
+lithium	p01130
+selenium	p01145
+tungsten	p01155
+terbuthylazine	p04022
+propachlor	p04024
+hexazinone	p04025
+butylate	p04028
+bromacil	p04029
+cycloate	p04031
+terbacil	p04032
+diphenamid	p04033
+simazine	p04035
+prometryn	p04036
+prometon	p04037
+2-chloro-6-ethylamino-4-amino-s-triazine	p04038
+2-chloro-4-isopropylamino-6-amino-s-triazine	p04040
+cyanazine	p04041
+fonofos	p04095
+radium-226	p09503	p09511
+uranium-238	p22603
+uranium-234	p22610
+uranium-235	p22620
+uranium (natural)	p22703
+alkalinity	p29801	p29802	p39036	p39086
+alpha-hch	p34253
+alpha-endosulfan	p34362
+p,p'-dde	p34653
+dicrotophos	p38454
+siduron	p38548
+dichlorvos	p38775
+chlorpyrifos	p38933
+lindane	p39341
+dieldrin	p39381
+metolachlor	p39415
+malathion	p39532
+parathion	p39542
+diazinon	p39572
+atrazine	p39632
+2,4-d	p39732
+2,4,5-t	p39742
+silvex	p39762
+alachlor	p46342
+acetochlor	p49260
+delta sulfur-34/sulfur-32 of sulfate	p49932
+carbon-14	p49933
+carbon-14 counting error	p49934
+bendiocarb	p50299
+benomyl	p50300
+caffeine	p50305
+chlorimuron-ethyl	p50306
+sulfometuron-methyl	p50337
+2-hydroxy-4-isopropylamino-6-ethylamino-s-triazine	p50355
+imazaquin	p50356
+metalaxyl	p50359	p61596
+nicosulfuron	p50364
+imazethapyr	p50407
+2,4-d methyl ester	p50470
+propiconazole	p50471
+radium-224	p50833
+tribenuron-methyl	p61159
+chloramben methyl ester	p61188
+cyfluthrin	p61585
+cypermethrin	p61586
+endosulfan sulfate	p61590
+fenamiphos	p61591
+iprodione	p61593
+isofenphos	p61594
+lambda-cyhalothrin	p61595
+methidathion	p61598
+myclobutanil	p61599
+oxyfluorfen	p61600
+phosmet	p61601
+tefluthrin	p61606
+tribufos	p61610
+2-chloro-2',6'-diethylacetanilide	p61618
+2-ethyl-6-methylaniline	p61620
+3,4-dichloroaniline	p61625
+3,5-dichloroaniline	p61627
+4-chloro-2-methylphenol	p61633
+azinphos-methyl oxygen analog	p61635
+chlorpyrifos oxygen analog	p61636
+diazoxon	p61638
+disulfoton sulfone	p61640
+ethion monoxon	p61644
+fenamiphos sulfone	p61645
+fenamiphos sulfoxide	p61646
+malaoxon	p61652
+methyl paraoxon	p61664
+phorate oxygen analog	p61666
+phosmet oxygen analog	p61668
+terbufos oxygen analog sulfone	p61674
+n-(4-chlorophenyl)-n'-methylurea	p61692
+bensulfuron-methyl	p61693
+flumetsulam	p61694
+imidacloprid	p61695
+metsulfuron-methyl	p61697
+acetaminophen	p62000
+codeine	p62003
+dehydronifedipine	p62004
+cotinine	p62005
+diltiazem	p62008
+albuterol	p62020
+sulfamethoxazole	p62021
+trimethoprim	p62023
+warfarin	p62024
+1,7-dimethylxanthine	p62030
+fipronil	p62166
+fipronil sulfide	p62167
+fipronil sulfone	p62168
+desulfinylfipronil amide	p62169
+desulfinylfipronil	p62170
+arsenite	p62452
+delta boron-11/boron-10	p62648
+carbamazepine	p62793
+diphenhydramine	p62796
+thiabendazole	p62801
+delta oxygen-18/oxygen-16 of nitrate	p63041
+hydrophobic acid fraction of dissolved organic carbon	p63737
+hydrophilic acid fraction of dissolved organic carbon	p63738
+transphilic organic acid fraction of dissolved organic carbon	p63739
+specific uv absorbance at 254 nm of hydrophobic acid fraction of doc	p63742
+specific uv absorbance at 254 nm of hydrophilic acid fraction of doc	p63743
+specific uv absorbance at 254 nm of transphilic organic acid fraction of doc	p63744
+perchlorate	p63790
+dissolved solids dried at 180 degrees celsius	p70300
+dissolved solids	p70301	p70303
+hydroxide	p71834
+iodide	p71865
+bromide	p71870
+mercury	p71890
+strontium-87/strontium-86 ratio	p75978
+cis-propiconazole	p79846
+trans-propiconazole	p79847
+radium-228	p81366
+potassium-40	p82068
+ethion	p82346
+metribuzin	p82630
+delta nitrogen-15/nitrogen-14 of nitrate	p82690
+delta nitrogen-15/nitrogen-14 of ammonia	p82691
+delta chromium-53/chromium-52	p82701
