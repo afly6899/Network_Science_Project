@@ -1,0 +1,1046 @@
+agency code	Agency Code
+station number	Station number
+begin date	Begin date
+begin time	Begin time
+end date	End date
+end time	End time
+time datum	Time datum
+time datum reliability code	Time datum reliability code
+agency collecting sample code	Agency Collecting Sample Code
+medium code	Medium code
+taxonomic unit code	Taxonomic unit code
+body part code	Body part code
+sampling depth	Sampling depth	feet
+stream width	Stream width	feet
+location in cross section	Location in cross section	fraction of total depth	percent
+sample accounting number	Sample accounting number
+location in cross section	Location in cross section	distance from left bank looking downstream	feet
+temperature	Temperature	water	degrees Celsius
+temperature	Temperature	water	degrees Fahrenheit
+temperature	Temperature	air	degrees Celsius
+temperature	Temperature	air	degrees Fahrenheit
+barometric pressure	Barometric pressure	millimeters of mercury
+agency analyzing sample	Agency analyzing sample	code
+project number	Project number
+cloud cover	Cloud cover	percent
+flow rate of well	Flow rate of well	gallons per minute
+flow rate	Flow rate	instantaneous	gallons per minute
+discharge	Discharge	cubic feet per second
+discharge	Discharge	instantaneous	cubic feet per second
+gage height	Gage height	feet
+turbidity	Turbidity	water	unfiltered	Jackson Turbidity Units
+turbidity	Turbidity	water	unfiltered	Hellige turbidimeter	milligrams per liter as silicon dioxide
+turbidity	Turbidity	water	unfiltered	nephelometric turbidity units
+color	Color	water	filtered	platinum cobalt units
+odor at room temperature	Odor at room temperature	threshold odor number
+oxidation reduction potential	Oxidation reduction potential	reference electrode not specified	millivolts
+specific conductance	Specific conductance	water	unfiltered	microsiemens per centimeter at 25 degrees Celsius
+sampling depth	Sampling depth	meters
+hydrogen ion	Hydrogen ion	water	unfiltered	calculated	milligrams per liter
+dissolved oxygen	Dissolved oxygen	water	unfiltered	milligrams per liter
+dissolved oxygen	Dissolved oxygen	water	unfiltered	percent of saturation
+biochemical oxygen demand	Biochemical oxygen demand	water	unfiltered	5 days at 20 degrees Celsius	milligrams per liter
+chemical oxygen demand	Chemical oxygen demand	low level	water	unfiltered	milligrams per liter
+chemical oxygen demand	Chemical oxygen demand	high level	water	unfiltered	milligrams per liter
+ph	pH	water	unfiltered	field	standard units
+ph	pH	water	unfiltered	laboratory	standard units
+carbon dioxide	Carbon dioxide	water	unfiltered	milligrams per liter
+acid neutralizing capacity	Acid neutralizing capacity	water	unfiltered	fixed endpoint (pH 4.5) titration	field	milligrams per liter as calcium carbonate
+acid neutralizing capacity	Acid neutralizing capacity	water	unfiltered	inflection-point titration method (incremental titration method)	field	milligrams per liter as calcium carbonate
+bicarbonate	Bicarbonate	water	unfiltered	fixed endpoint (pH 4.5) titration	field	milligrams per liter
+carbonate	Carbonate	water	unfiltered	fixed endpoint (pH 8.3) titration	field	milligrams per liter
+carbonate	Carbonate	water	unfiltered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+bicarbonate	Bicarbonate	water	unfiltered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+carbonate	Carbonate	water	filtered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+bicarbonate	Bicarbonate	water	filtered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+total solids remaining after ignition	Total solids remaining after ignition	water	unfiltered	milligrams per liter
+dissolved solids dried at 105 degrees celsius	Dissolved solids dried at 105 degrees Celsius	water	filtered	milligrams per liter
+loss on ignition of dissolved solids	Loss on ignition of dissolved solids	water	filtered	milligrams per liter
+suspended solids	Suspended solids	water	unfiltered	milligrams per liter
+loss on ignition of suspended solids	Loss on ignition of suspended solids	water	unfiltered	milligrams per liter
+suspended solids remaining after ignition	Suspended solids remaining after ignition	water	unfiltered	milligrams per liter
+oil and grease	Oil and grease	water	unfiltered	recoverable	milligrams per liter
+oil and grease	Oil and grease	water	unfiltered	freon extraction	gravimetric	recoverable	milligrams per liter
+biomass	Biomass	periphyton	ash weight	grams per square meter
+biomass	Biomass	periphyton	dry weight	grams per square meter
+total nitrogen [nitrate + nitrite + ammonia + organic-n]	Total nitrogen [nitrate + nitrite + ammonia + organic-N]	water	unfiltered	milligrams per liter
+total nitrogen [nitrate + nitrite + ammonia + organic-n]	Total nitrogen [nitrate + nitrite + ammonia + organic-N]	water	filtered	milligrams per liter
+organic nitrogen	Organic nitrogen	water	unfiltered	milligrams per liter as nitrogen
+organic nitrogen	Organic nitrogen	water	filtered	milligrams per liter as nitrogen
+ammonia (nh3 + nh4+)	Ammonia (NH3 + NH4+)	water	filtered	milligrams per liter as nitrogen
+ammonia (nh3 + nh4+)	Ammonia (NH3 + NH4+)	water	unfiltered	milligrams per liter as nitrogen
+nitrite	Nitrite	water	filtered	milligrams per liter as nitrogen
+nitrite	Nitrite	water	unfiltered	milligrams per liter as nitrogen
+nitrate	Nitrate	water	filtered	milligrams per liter as nitrogen
+nitrate	Nitrate	water	unfiltered	milligrams per liter as nitrogen
+ammonia plus organic nitrogen	Ammonia plus organic nitrogen	water	filtered	milligrams per liter as nitrogen
+ammonia plus organic nitrogen	Ammonia plus organic nitrogen	suspended sediment	total	milligrams per liter as nitrogen
+ammonia plus organic nitrogen	Ammonia plus organic nitrogen	water	unfiltered	milligrams per liter as nitrogen
+nitrate plus nitrite	Nitrate plus nitrite	water	unfiltered	milligrams per liter as nitrogen
+nitrate plus nitrite	Nitrate plus nitrite	water	filtered	milligrams per liter as nitrogen
+phosphate	Phosphate	water	unfiltered	milligrams per liter as PO4
+orthophosphate	Orthophosphate	water	filtered	milligrams per liter as PO4
+phosphorus	Phosphorus	water	unfiltered	milligrams per liter as phosphorus
+phosphorus	Phosphorus	water	filtered	milligrams per liter as phosphorus
+orthophosphate	Orthophosphate	water	filtered	milligrams per liter as phosphorus
+organic carbon	Organic carbon	water	unfiltered	milligrams per liter
+organic carbon	Organic carbon	water	filtered	milligrams per liter
+organic carbon	Organic carbon	suspended sediment	total	milligrams per liter
+cyanide	Cyanide	water	unfiltered	milligrams per liter
+cyanide	Cyanide	bed sediment	total	dry weight	milligrams per kilogram
+sulfide	Sulfide	water	unfiltered	milligrams per liter
+sulfide	Sulfide	water	filtered	milligrams per liter
+hardness	Hardness	water	milligrams per liter as calcium carbonate
+noncarbonate hardness	Noncarbonate hardness	water	unfiltered	field	milligrams per liter as calcium carbonate
+noncarbonate hardness	Noncarbonate hardness	water	filtered	field	milligrams per liter as calcium carbonate
+noncarbonate hardness	Noncarbonate hardness	water	filtered	lab	milligrams per liter as calcium carbonate
+calcium	Calcium	water	filtered	milligrams per liter
+magnesium	Magnesium	water	filtered	milligrams per liter
+sodium	Sodium	water	filtered	milligrams per liter
+sodium adsorption ratio (sar)	Sodium adsorption ratio (SAR)	water	number
+sodium fraction of cations	Sodium fraction of cations	water	percent in equivalents of major cations
+sodium plus potassium	Sodium plus potassium	water	filtered	milligrams per liter as sodium
+potassium	Potassium	water	filtered	milligrams per liter
+chloride	Chloride	water	filtered	milligrams per liter
+sulfate	Sulfate	water	filtered	milligrams per liter
+fluoride	Fluoride	water	filtered	milligrams per liter
+silica	Silica	water	filtered	milligrams per liter as SiO2
+arsenic	Arsenic	water	filtered	micrograms per liter
+arsenic	Arsenic	suspended sediment	total	micrograms per liter
+arsenic	Arsenic	water	unfiltered	micrograms per liter
+arsenic	Arsenic	bed sediment	total digestion	dry weight	milligrams per kilogram
+barium	Barium	water	filtered	micrograms per liter
+barium	Barium	suspended sediment	recoverable	micrograms per liter
+barium	Barium	water	unfiltered	recoverable	micrograms per liter
+beryllium	Beryllium	water	filtered	micrograms per liter
+boron	Boron	water	filtered	micrograms per liter
+cadmium	Cadmium	water	filtered	micrograms per liter
+cadmium	Cadmium	suspended sediment	recoverable	micrograms per liter
+cadmium	Cadmium	water	unfiltered	micrograms per liter
+cadmium	Cadmium	bed sediment	recoverable	dry weight	milligrams per kilogram
+chromium	Chromium	water	filtered	micrograms per liter
+chromium	Chromium	suspended sediment	recoverable	micrograms per liter
+chromium(vi)	Chromium(VI)	water	filtered	micrograms per liter as Cr
+chromium	Chromium	water	unfiltered	recoverable	micrograms per liter
+cobalt	Cobalt	water	filtered	micrograms per liter
+cobalt	Cobalt	suspended sediment	recoverable	micrograms per liter
+cobalt	Cobalt	water	unfiltered	recoverable	micrograms per liter
+copper	Copper	water	filtered	micrograms per liter
+copper	Copper	suspended sediment	recoverable	micrograms per liter
+copper	Copper	water	unfiltered	recoverable	micrograms per liter
+copper	Copper	bed sediment	recoverable	dry weight	milligrams per kilogram
+iron	Iron	suspended sediment	recoverable	micrograms per liter
+iron	Iron	water	unfiltered	recoverable	micrograms per liter
+iron	Iron	water	filtered	micrograms per liter
+iron(ii)	Iron(II)	water	filtered	micrograms per liter
+iron(ii) plus iron(iii)	Iron(II) plus Iron(III)	water	filtered	micrograms per liter
+lead	Lead	water	filtered	micrograms per liter
+lead	Lead	suspended sediment	recoverable	micrograms per liter
+lead	Lead	water	unfiltered	recoverable	micrograms per liter
+lead	Lead	bed sediment	recoverable	dry weight	milligrams per kilogram
+manganese	Manganese	suspended sediment	recoverable	micrograms per liter
+manganese	Manganese	water	unfiltered	recoverable	micrograms per liter
+manganese	Manganese	water	filtered	micrograms per liter
+thallium	Thallium	water	filtered	micrograms per liter
+molybdenum	Molybdenum	water	filtered	micrograms per liter
+nickel	Nickel	water	filtered	micrograms per liter
+nickel	Nickel	suspended sediment	recoverable	micrograms per liter
+nickel	Nickel	water	unfiltered	recoverable	micrograms per liter
+nickel	Nickel	bed sediment	recoverable	dry weight	milligrams per kilogram
+silver	Silver	water	filtered	micrograms per liter
+silver	Silver	suspended sediment	recoverable	micrograms per liter
+silver	Silver	water	unfiltered	recoverable	micrograms per liter
+strontium	Strontium	water	filtered	micrograms per liter
+vanadium	Vanadium	water	filtered	micrograms per liter
+zinc	Zinc	water	filtered	micrograms per liter
+zinc	Zinc	suspended sediment	recoverable	micrograms per liter
+zinc	Zinc	water	unfiltered	recoverable	micrograms per liter
+zinc	Zinc	bed sediment	recoverable	dry weight	milligrams per kilogram
+antimony	Antimony	water	filtered	micrograms per liter
+aluminum	Aluminum	water	unfiltered	recoverable	micrograms per liter
+aluminum	Aluminum	water	filtered	micrograms per liter
+lithium	Lithium	water	filtered	micrograms per liter
+selenium	Selenium	water	filtered	micrograms per liter
+selenium	Selenium	suspended sediment	total	micrograms per liter
+selenium	Selenium	water	unfiltered	micrograms per liter
+selenium	Selenium	bed sediment	total digestion	dry weight	milligrams per kilogram
+tungsten	Tungsten	water	filtered	micrograms per liter
+iron	Iron	bed sediment	total digestion	dry weight	milligrams per kilogram
+terbuthylazine	Terbuthylazine	water	filtered	recoverable	micrograms per liter
+propachlor	Propachlor	water	filtered	recoverable	micrograms per liter
+hexazinone	Hexazinone	water	filtered	recoverable	micrograms per liter
+butylate	Butylate	water	filtered	recoverable	micrograms per liter
+bromacil	Bromacil	water	filtered	recoverable	micrograms per liter
+cycloate	Cycloate	water	filtered	recoverable	micrograms per liter
+terbacil	Terbacil	water	filtered	recoverable	micrograms per liter
+diphenamid	Diphenamid	water	filtered	recoverable	micrograms per liter
+simazine	Simazine	water	filtered	recoverable	micrograms per liter
+prometryn	Prometryn	water	filtered	recoverable	micrograms per liter
+prometon	Prometon	water	filtered	recoverable	micrograms per liter
+2-chloro-6-ethylamino-4-amino-s-triazine	2-Chloro-6-ethylamino-4-amino-s-triazine	water	filtered	recoverable	micrograms per liter
+2-chloro-4-isopropylamino-6-amino-s-triazine	2-Chloro-4-isopropylamino-6-amino-s-triazine	water	filtered	recoverable	micrograms per liter
+cyanazine	Cyanazine	water	filtered	recoverable	micrograms per liter
+fonofos	Fonofos	water	filtered	recoverable	micrograms per liter
+metalaxyl	Metalaxyl	water	unfiltered	recoverable	micrograms per liter
+tritium	Tritium	water	unfiltered	picocuries per liter
+tritium in water molecules	Tritium in water molecules	tritium units
+tritium in water molecules counting error	Tritium in water molecules counting error	tritium units
+radium-226	Radium-226	water	filtered	picocuries per liter
+radium-226	Radium-226	water	filtered	radon method	picocuries per liter
+uranium-238	Uranium-238	water	filtered	picocuries per liter
+uranium-234	Uranium-234	water	filtered	picocuries per liter
+uranium-235	Uranium-235	water	filtered	picocuries per liter
+uranium (natural)	Uranium (natural)	water	filtered	micrograms per liter
+alkalinity	Alkalinity	water	filtered	fixed endpoint (pH 4.5) titration	laboratory	milligrams per liter as calcium carbonate
+alkalinity	Alkalinity	water	filtered	Gran titration	field	milligrams per liter as calcium carbonate
+bicarbonate	Bicarbonate	water	filtered	fixed endpoint (pH 4.5) titration	field	milligrams per liter
+carbonate	Carbonate	water	filtered	fixed endpoint (pH 8.3) titration	field	milligrams per liter
+2-methylnaphthalene	2-Methylnaphthalene	water	unfiltered	recoverable	micrograms per liter
+2-nitroaniline	2-Nitroaniline	water	unfiltered	recoverable	micrograms per liter
+4-nitroaniline	4-Nitroaniline	water	unfiltered	recoverable	micrograms per liter
+2-methyl-4,6-dinitrophenol	2-Methyl-4,6-dinitrophenol	water	unfiltered	recoverable	micrograms per liter
+gage height	Gage height	above datum	meters
+discharge	Discharge	cubic meters per second
+discharge	Discharge	instantaneous	cubic meters per second
+depth to water level	Depth to water level	below land surface datum (LSD)	meters
+dibromomethane	Dibromomethane	water	unfiltered	recoverable	micrograms per liter
+dichlorvos	Dichlorvos	water	unfiltered	recoverable	micrograms per liter
+bromacil	Bromacil	water	unfiltered	recoverable	micrograms per liter
+inorganic carbon	Inorganic carbon	bed sediment	dry weight	percent
+organic carbon	Organic carbon	bed sediment	dry weight	percent
+4-chloroaniline	4-Chloroaniline	water	unfiltered	recoverable	micrograms per liter
+total coliforms	Total coliforms	M-Endo MF method	immediate	water	colony forming units per 100 milliliters
+total coliforms	Total coliforms	M-Endo MF method	delayed	water	colonies per 100 milliliters
+fecal coliforms	Fecal coliforms	M-FC MF (0.45 micron) method	water	colony forming units per 100 milliliters
+fecal coliforms	Fecal coliforms	M-FC MF (0.7 micron) method	water	colony forming units per 100 milliliters
+fecal streptococci	Fecal streptococci	KF streptococcus MF method	water	colony forming units per 100 milliliters
+fecal streptococci	Fecal streptococci	m-Enterococcus MF method	water	colonies per 100 milliliters
+sample volume	Sample volume	milliliters
+bromodichloromethane	Bromodichloromethane	water	unfiltered	recoverable	micrograms per liter
+tetrachloromethane	Tetrachloromethane	water	unfiltered	recoverable	micrograms per liter
+1,2-dichloroethane	1,2-Dichloroethane	water	unfiltered	recoverable	micrograms per liter
+tribromomethane	Tribromomethane	water	unfiltered	recoverable	micrograms per liter
+dibromochloromethane	Dibromochloromethane	water	unfiltered	recoverable	micrograms per liter
+trichloromethane	Trichloromethane	water	unfiltered	recoverable	micrograms per liter
+phenolic compounds	Phenolic compounds	water	unfiltered	recoverable	micrograms per liter
+toluene	Toluene	water	unfiltered	recoverable	micrograms per liter
+benzene	Benzene	water	unfiltered	recoverable	micrograms per liter
+acenaphthylene	Acenaphthylene	water	unfiltered	recoverable	micrograms per liter
+acenaphthene	Acenaphthene	water	unfiltered	recoverable	micrograms per liter
+acrylonitrile	Acrylonitrile	water	unfiltered	recoverable	micrograms per liter
+anthracene	Anthracene	water	unfiltered	recoverable	micrograms per liter
+benzo[b]fluoranthene	Benzo[b]fluoranthene	water	unfiltered	recoverable	micrograms per liter
+benzo[k]fluoranthene	Benzo[k]fluoranthene	water	unfiltered	recoverable	micrograms per liter
+benzo[a]pyrene	Benzo[a]pyrene	water	unfiltered	recoverable	micrograms per liter
+alpha-hch	alpha-HCH	water	filtered	recoverable	micrograms per liter
+bis(2-chloroethyl) ether	Bis(2-chloroethyl) ether	water	unfiltered	recoverable	micrograms per liter
+bis(2-chloroethoxy)methane	Bis(2-chloroethoxy)methane	water	unfiltered	recoverable	micrograms per liter
+bis(2-chloroisopropyl) ether	Bis(2-chloroisopropyl) ether	water	unfiltered	recoverable	micrograms per liter
+benzyl n-butyl phthalate	Benzyl n-butyl phthalate	water	unfiltered	recoverable	micrograms per liter
+chlorobenzene	Chlorobenzene	water	unfiltered	recoverable	micrograms per liter
+chloroethane	Chloroethane	water	unfiltered	recoverable	micrograms per liter
+chrysene	Chrysene	water	unfiltered	recoverable	micrograms per liter
+diethyl phthalate	Diethyl phthalate	water	unfiltered	recoverable	micrograms per liter
+dimethyl phthalate	Dimethyl phthalate	water	unfiltered	recoverable	micrograms per liter
+alpha-endosulfan	alpha-Endosulfan	water	filtered	recoverable	micrograms per liter
+ethylbenzene	Ethylbenzene	water	unfiltered	recoverable	micrograms per liter
+fluoranthene	Fluoranthene	water	unfiltered	recoverable	micrograms per liter
+9h-fluorene	9H-Fluorene	water	unfiltered	recoverable	micrograms per liter
+hexachlorocyclopentadiene	Hexachlorocyclopentadiene	water	unfiltered	recoverable	micrograms per liter
+hexachlorobutadiene	Hexachlorobutadiene	water	unfiltered	recoverable	micrograms per liter
+hexachloroethane	Hexachloroethane	water	unfiltered	recoverable	micrograms per liter
+indeno[1,2,3-cd]pyrene	Indeno[1,2,3-cd]pyrene	water	unfiltered	recoverable	micrograms per liter
+isophorone	Isophorone	water	unfiltered	recoverable	micrograms per liter
+bromomethane	Bromomethane	water	unfiltered	recoverable	micrograms per liter
+chloromethane	Chloromethane	water	unfiltered	recoverable	micrograms per liter
+dichloromethane	Dichloromethane	water	unfiltered	recoverable	micrograms per liter
+n-nitrosodi-n-propylamine	N-Nitrosodi-n-propylamine	water	unfiltered	recoverable	micrograms per liter
+n-nitrosodiphenylamine	N-Nitrosodiphenylamine	water	unfiltered	recoverable	micrograms per liter
+n-nitrosodimethylamine (ndma)	N-Nitrosodimethylamine (NDMA)	water	unfiltered	recoverable	micrograms per liter
+nitrobenzene	Nitrobenzene	water	unfiltered	recoverable	micrograms per liter
+4-chloro-3-methylphenol	4-Chloro-3-methylphenol	water	unfiltered	recoverable	micrograms per liter
+phenanthrene	Phenanthrene	water	unfiltered	recoverable	micrograms per liter
+pyrene	Pyrene	water	unfiltered	recoverable	micrograms per liter
+tetrachloroethene	Tetrachloroethene	water	unfiltered	recoverable	micrograms per liter
+trichlorofluoromethane	Trichlorofluoromethane	water	unfiltered	recoverable	micrograms per liter
+1,1-dichloroethane	1,1-Dichloroethane	water	unfiltered	recoverable	micrograms per liter
+1,1-dichloroethene	1,1-Dichloroethene	water	unfiltered	recoverable	micrograms per liter
+1,1,1-trichloroethane	1,1,1-Trichloroethane	water	unfiltered	recoverable	micrograms per liter
+1,1,2-trichloroethane	1,1,2-Trichloroethane	water	unfiltered	recoverable	micrograms per liter
+1,1,2,2-tetrachloroethane	1,1,2,2-Tetrachloroethane	water	unfiltered	recoverable	micrograms per liter
+benzo[ghi]perylene	Benzo[ghi]perylene	water	unfiltered	recoverable	micrograms per liter
+benzo[a]anthracene	Benzo[a]anthracene	water	unfiltered	recoverable	micrograms per liter
+1,2-dichlorobenzene	1,2-Dichlorobenzene	water	unfiltered	recoverable	micrograms per liter
+1,2-dichloropropane	1,2-Dichloropropane	water	unfiltered	recoverable	micrograms per liter
+trans-1,2-dichloroethene	trans-1,2-Dichloroethene	water	unfiltered	recoverable	micrograms per liter
+1,2,4-trichlorobenzene	1,2,4-Trichlorobenzene	water	unfiltered	recoverable	micrograms per liter
+dibenzo[a,h]anthracene	Dibenzo[a,h]anthracene	water	unfiltered	recoverable	micrograms per liter
+1,3-dichloropropene	1,3-Dichloropropene	water	unfiltered	recoverable	micrograms per liter
+1,3-dichlorobenzene	1,3-Dichlorobenzene	water	unfiltered	recoverable	micrograms per liter
+1,4-dichlorobenzene	1,4-Dichlorobenzene	water	unfiltered	recoverable	micrograms per liter
+2-chloroethyl vinyl ether	2-Chloroethyl vinyl ether	water	unfiltered	recoverable	micrograms per liter
+2-chloronaphthalene	2-Chloronaphthalene	water	unfiltered	recoverable	micrograms per liter
+2-chlorophenol	2-Chlorophenol	water	unfiltered	recoverable	micrograms per liter
+2-nitrophenol	2-Nitrophenol	water	unfiltered	recoverable	micrograms per liter
+di-n-octyl phthalate	Di-n-octyl phthalate	water	unfiltered	recoverable	micrograms per liter
+2,4-dichlorophenol	2,4-Dichlorophenol	water	unfiltered	recoverable	micrograms per liter
+2,4-dimethylphenol	2,4-Dimethylphenol	water	unfiltered	recoverable	micrograms per liter
+2,4-dinitrotoluene	2,4-Dinitrotoluene	water	unfiltered	recoverable	micrograms per liter
+2,4-dinitrophenol	2,4-Dinitrophenol	water	unfiltered	recoverable	micrograms per liter
+2,4,6-trichlorophenol	2,4,6-Trichlorophenol	water	unfiltered	recoverable	micrograms per liter
+2,6-dinitrotoluene	2,6-Dinitrotoluene	water	unfiltered	recoverable	micrograms per liter
+3,3'-dichlorobenzidine	3,3'-Dichlorobenzidine	water	unfiltered	recoverable	micrograms per liter
+4-bromophenyl phenyl ether	4-Bromophenyl phenyl ether	water	unfiltered	recoverable	micrograms per liter
+4-chlorophenyl phenyl ether	4-Chlorophenyl phenyl ether	water	unfiltered	recoverable	micrograms per liter
+4-nitrophenol	4-Nitrophenol	water	unfiltered	recoverable	micrograms per liter
+p,p'-dde	p,p'-DDE	water	filtered	recoverable	micrograms per liter
+2-methyl-4,6-dinitrophenol	2-Methyl-4,6-dinitrophenol	water	unfiltered	recoverable	micrograms per liter
+dichlorodifluoromethane	Dichlorodifluoromethane	water	unfiltered	recoverable	micrograms per liter
+phenol	Phenol	water	unfiltered	recoverable	micrograms per liter
+naphthalene	Naphthalene	water	unfiltered	recoverable	micrograms per liter
+trans-1,3-dichloropropene	trans-1,3-Dichloropropene	water	unfiltered	recoverable	micrograms per liter
+cis-1,3-dichloropropene	cis-1,3-Dichloropropene	water	unfiltered	recoverable	micrograms per liter
+methylene blue active substances	Methylene blue active substances	water	unfiltered	recoverable	milligrams per liter
+dicamba	Dicamba	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dicrotophos	Dicrotophos	water	filtered	recoverable	micrograms per liter
+linuron	Linuron	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+mcpa	MCPA	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+mcpb	MCPB	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+methiocarb	Methiocarb	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+propoxur	Propoxur	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+siduron	Siduron	water	filtered	recoverable	micrograms per liter
+bentazon	Bentazon	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+2,4-db	2,4-DB	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dichlorvos	Dichlorvos	water	filtered	recoverable	micrograms per liter
+fluometuron	Fluometuron	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+oxamyl	Oxamyl	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+chlorpyrifos	Chlorpyrifos	water	unfiltered	recoverable	micrograms per liter
+chlorpyrifos	Chlorpyrifos	water	filtered	recoverable	micrograms per liter
+propazine	Propazine	water	unfiltered	recoverable	micrograms per liter
+trifluralin	Trifluralin	water	unfiltered	recoverable	micrograms per liter
+pentachlorophenol	Pentachlorophenol	water	unfiltered	recoverable	micrograms per liter
+alkalinity	Alkalinity	water	filtered	fixed endpoint (pH 4.5) titration	field	milligrams per liter as calcium carbonate
+simetryn	Simetryn	water	unfiltered	recoverable	micrograms per liter
+simazine	Simazine	water	unfiltered	recoverable	micrograms per liter
+prometon	Prometon	water	unfiltered	recoverable	micrograms per liter
+prometryn	Prometryn	water	unfiltered	recoverable	micrograms per liter
+alkalinity	Alkalinity	water	filtered	inflection-point titration method (incremental titration method)	field	milligrams per liter as calcium carbonate
+bis(2-ethylhexyl) phthalate	Bis(2-ethylhexyl) phthalate	water	unfiltered	recoverable	micrograms per liter
+di-n-butyl phthalate	Di-n-butyl phthalate	water	unfiltered	recoverable	micrograms per liter
+vinyl chloride	Vinyl chloride	water	unfiltered	recoverable	micrograms per liter
+trichloroethene	Trichloroethene	water	unfiltered	recoverable	micrograms per liter
+polychlorinated naphthalenes	Polychlorinated naphthalenes	water	unfiltered	recoverable	micrograms per liter
+polychlorinated naphthalenes	Polychlorinated naphthalenes	bed sediment	recoverable	dry weight	micrograms per kilogram
+aldrin	Aldrin	water	unfiltered	recoverable	micrograms per liter
+aldrin	Aldrin	bed sediment	recoverable	dry weight	micrograms per kilogram
+lindane	Lindane	water	unfiltered	recoverable	micrograms per liter
+lindane	Lindane	water	filtered	recoverable	micrograms per liter
+lindane	Lindane	bed sediment	recoverable	dry weight	micrograms per kilogram
+chlordane (technical)	Chlordane (technical)	water	unfiltered	recoverable	micrograms per liter
+chlordane (technical)	Chlordane (technical)	bed sediment	recoverable	dry weight	micrograms per kilogram
+p,p'-ddd	p,p'-DDD	water	unfiltered	recoverable	micrograms per liter
+p,p'-ddd	p,p'-DDD	bed sediment	recoverable	dry weight	micrograms per kilogram
+p,p'-dde	p,p'-DDE	water	unfiltered	recoverable	micrograms per liter
+p,p'-dde	p,p'-DDE	bed sediment	recoverable	dry weight	micrograms per kilogram
+p,p'-ddt	p,p'-DDT	water	unfiltered	recoverable	micrograms per liter
+p,p'-ddt	p,p'-DDT	bed sediment	recoverable	dry weight	micrograms per kilogram
+dieldrin	Dieldrin	water	unfiltered	recoverable	micrograms per liter
+dieldrin	Dieldrin	water	filtered	recoverable	micrograms per liter
+dieldrin	Dieldrin	bed sediment	recoverable	dry weight	micrograms per kilogram
+alpha-endosulfan	alpha-Endosulfan	water	unfiltered	recoverable	micrograms per liter
+alpha-endosulfan	alpha-Endosulfan	bed sediment	recoverable	dry weight	micrograms per kilogram
+endrin	Endrin	water	unfiltered	recoverable	micrograms per liter
+endrin	Endrin	bed sediment	recoverable	dry weight	micrograms per kilogram
+ethion	Ethion	water	unfiltered	recoverable	micrograms per liter
+toxaphene	Toxaphene	water	unfiltered	recoverable	micrograms per liter
+toxaphene	Toxaphene	bed sediment	recoverable	dry weight	micrograms per kilogram
+heptachlor	Heptachlor	water	unfiltered	recoverable	micrograms per liter
+heptachlor	Heptachlor	bed sediment	recoverable	dry weight	micrograms per kilogram
+metolachlor	Metolachlor	water	filtered	recoverable	micrograms per liter
+heptachlor epoxide	Heptachlor epoxide	water	unfiltered	recoverable	micrograms per liter
+heptachlor epoxide	Heptachlor epoxide	bed sediment	recoverable	dry weight	micrograms per kilogram
+p,p'-methoxychlor	p,p'-Methoxychlor	bed sediment	recoverable	dry weight	micrograms per kilogram
+pcbs	PCBs	water	unfiltered	recoverable	micrograms per liter
+pcbs	PCBs	bed sediment	recoverable	dry weight	micrograms per kilogram
+malathion	Malathion	water	unfiltered	recoverable	micrograms per liter
+malathion	Malathion	water	filtered	recoverable	micrograms per liter
+parathion	Parathion	water	unfiltered	recoverable	micrograms per liter
+parathion	Parathion	water	filtered	recoverable	micrograms per liter
+diazinon	Diazinon	water	unfiltered	recoverable	micrograms per liter
+diazinon	Diazinon	water	filtered	recoverable	micrograms per liter
+methyl parathion	Methyl parathion	water	unfiltered	recoverable	micrograms per liter
+atrazine	Atrazine	water	unfiltered	recoverable	micrograms per liter
+atrazine	Atrazine	water	filtered	recoverable	micrograms per liter
+hexachlorobenzene	Hexachlorobenzene	water	unfiltered	recoverable	micrograms per liter
+hexachlorobutadiene	Hexachlorobutadiene	water	unfiltered	recoverable	micrograms per liter
+2,4-d	2,4-D	water	unfiltered	recoverable	micrograms per liter
+2,4-d	2,4-D	water	filtered	recoverable	micrograms per liter
+2,4,5-t	2,4,5-T	water	unfiltered	recoverable	micrograms per liter
+2,4,5-t	2,4,5-T	water	filtered	recoverable	micrograms per liter
+carbaryl	Carbaryl	water	unfiltered	recoverable	micrograms per liter
+mirex	Mirex	bed sediment	recoverable	dry weight	micrograms per kilogram
+silvex	Silvex	water	unfiltered	recoverable	micrograms per liter
+silvex	Silvex	water	filtered	recoverable	micrograms per liter
+carbophenothion	Carbophenothion	water	unfiltered	recoverable	micrograms per liter
+methyl trithion	Methyl trithion	water	unfiltered	recoverable	micrograms per liter
+isopropyl acetate	Isopropyl acetate	water	unfiltered	recoverable	micrograms per liter
+chlorodifluoromethane	Chlorodifluoromethane	water	unfiltered	recoverable	micrograms per liter
+alachlor	Alachlor	water	filtered	recoverable	micrograms per liter
+precipitation	Precipitation	inches
+triclopyr	Triclopyr	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+propham	Propham	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+acetochlor	Acetochlor	water	filtered	recoverable	micrograms per liter
+picloram	Picloram	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+oryzalin	Oryzalin	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+norflurazon	Norflurazon	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+neburon	Neburon	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+1-naphthol	1-Naphthol	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+methomyl	Methomyl	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+fenuron	Fenuron	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+2-methyl-4,6-dinitrophenol	2-Methyl-4,6-dinitrophenol	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+diuron	Diuron	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dinoseb	Dinoseb	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dichlorprop	Dichlorprop	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dichlobenil	Dichlobenil	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dcpa monoacid	DCPA monoacid	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+clopyralid	Clopyralid	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+chlorothalonil	Chlorothalonil	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+3-hydroxy carbofuran	3-Hydroxy carbofuran	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+carbofuran	Carbofuran	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+carbaryl	Carbaryl	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+bromoxynil	Bromoxynil	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+aldicarb	Aldicarb	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+aldicarb sulfone	Aldicarb sulfone	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+aldicarb sulfoxide	Aldicarb sulfoxide	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+acifluorfen	Acifluorfen	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+1,1-difluoroethane	1,1-Difluoroethane	water	unfiltered	recoverable	micrograms per liter
+delta sulfur-34/sulfur-32 of sulfate	delta sulfur-34/sulfur-32 of sulfate	water	filtered	per mil
+carbon-14	Carbon-14	water	filtered	percent modern
+carbon-14 counting error	Carbon-14 counting error	water	filtered	percent modern
+biomass	Biomass	periphyton	ash free dry mass	grams per square meter
+methyl acrylate	Methyl acrylate	water	unfiltered	recoverable	micrograms per liter
+1,2,3,4-tetramethylbenzene	1,2,3,4-Tetramethylbenzene	water	unfiltered	recoverable	micrograms per liter
+1,2,3,5-tetramethylbenzene	1,2,3,5-Tetramethylbenzene	water	unfiltered	recoverable	micrograms per liter
+bromoethene	Bromoethene	water	unfiltered	recoverable	micrograms per liter
+tert-butyl ethyl ether	tert-Butyl ethyl ether	water	unfiltered	recoverable	micrograms per liter
+methyl tert-pentyl ether	Methyl tert-pentyl ether	water	unfiltered	recoverable	micrograms per liter
+chlorine (total residual)	Chlorine (total residual)	water	unfiltered	milligrams per liter
+site visit purpose	Site visit purpose	code
+trichlorofluoromethane	Trichlorofluoromethane	for age dating	water	unfiltered	recoverable	picograms per kilogram
+dichlorodifluoromethane	Dichlorodifluoromethane	for age dating	water	unfiltered	recoverable	picograms per kilogram
+1,1,2-trichloro-1,2,2-trifluoroethane	1,1,2-Trichloro-1,2,2-trifluoroethane	for age dating	water	unfiltered	recoverable	picograms per kilogram
+bendiocarb	Bendiocarb	water	filtered	recoverable	micrograms per liter
+benomyl	Benomyl	water	filtered	recoverable	micrograms per liter
+caffeine	Caffeine	water	filtered	recoverable	micrograms per liter
+chlorimuron-ethyl	Chlorimuron-ethyl	water	filtered	recoverable	micrograms per liter
+sulfometuron-methyl	Sulfometuron-methyl	water	filtered	recoverable	micrograms per liter
+2-hydroxy-4-isopropylamino-6-ethylamino-s-triazine	2-Hydroxy-4-isopropylamino-6-ethylamino-s-triazine	water	filtered	recoverable	micrograms per liter
+imazaquin	Imazaquin	water	filtered	recoverable	micrograms per liter
+metalaxyl	Metalaxyl	water	filtered	recoverable	micrograms per liter
+nicosulfuron	Nicosulfuron	water	filtered	recoverable	micrograms per liter
+imazethapyr	Imazethapyr	water	filtered	recoverable	micrograms per liter
+escherichia coli	Escherichia coli	defined substrate test method (DSTM)	water	most probable number per 100 milliliters
+2,4-d methyl ester	2,4-D methyl ester	water	filtered	recoverable	micrograms per liter
+propiconazole	Propiconazole	water	filtered	recoverable	micrograms per liter
+total coliforms	Total coliforms	defined substrate test method (DSTM)	water	most probable number per 100 milliliters
+absorbance	Absorbance	254 nm	water	filtered	absorbance units per centimeter
+radium-224	Radium-224	water	filtered	picocuries per liter
+1,2-dichloro-1,1,2,2-tetrafluoroethane	1,2-Dichloro-1,1,2,2-tetrafluoroethane	water	unfiltered	recoverable	micrograms per liter
+helium	Helium	water	dissolved	mole percent of dissolved gases
+hydrogen	Hydrogen	water	dissolved	mole percent of dissolved gases
+argon	Argon	water	dissolved	mole percent of dissolved gases
+oxygen	Oxygen	water	dissolved	mole percent of dissolved gases
+carbon dioxide	Carbon dioxide	water	dissolved	mole percent of dissolved gases
+dinitrogen	Dinitrogen	water	dissolved	mole percent of dissolved gases
+carbon monoxide	Carbon monoxide	water	dissolved	mole percent of dissolved gases
+propene	Propene	water	dissolved	mole percent of dissolved gases
+c6 and higher-molecular-weight hydrocarbons	C6 and higher-molecular-weight hydrocarbons	water	dissolved	mole percent of dissolved gases
+phytoplankton	Phytoplankton	total	cells per milliliter
+turbidity	Turbidity	water	unfiltered	field	nephelometric turbidity units
+helium-3/helium-4 ratio	Helium-3/helium-4 ratio	water	unfiltered	ratio
+neon	Neon	water	unfiltered	cubic centimeters per gram at standard temperature and pressure
+neon error	Neon error	water	unfiltered	cubic centimeters per gram at standard temperature and pressure
+tribenuron-methyl	Tribenuron-methyl	water	filtered	recoverable	micrograms per liter
+chloramben methyl ester	Chloramben methyl ester	water	filtered	recoverable	micrograms per liter
+perchlorate	Perchlorate	water	unfiltered	micrograms per liter
+cyfluthrin	Cyfluthrin	water	filtered	recoverable	micrograms per liter
+cypermethrin	Cypermethrin	water	filtered	recoverable	micrograms per liter
+endosulfan sulfate	Endosulfan sulfate	water	filtered	recoverable	micrograms per liter
+fenamiphos	Fenamiphos	water	filtered	recoverable	micrograms per liter
+iprodione	Iprodione	water	filtered	recoverable	micrograms per liter
+isofenphos	Isofenphos	water	filtered	recoverable	micrograms per liter
+lambda-cyhalothrin	lambda-Cyhalothrin	water	filtered	recoverable	micrograms per liter
+metalaxyl	Metalaxyl	water	filtered	recoverable	micrograms per liter
+methidathion	Methidathion	water	filtered	recoverable	micrograms per liter
+myclobutanil	Myclobutanil	water	filtered	recoverable	micrograms per liter
+oxyfluorfen	Oxyfluorfen	water	filtered	recoverable	micrograms per liter
+phosmet	Phosmet	water	filtered	recoverable	micrograms per liter
+tefluthrin	Tefluthrin	water	filtered	recoverable	micrograms per liter
+tribufos	Tribufos	water	filtered	recoverable	micrograms per liter
+2-chloro-2',6'-diethylacetanilide	2-Chloro-2',6'-diethylacetanilide	water	filtered	recoverable	micrograms per liter
+2-ethyl-6-methylaniline	2-Ethyl-6-methylaniline	water	filtered	recoverable	micrograms per liter
+3,4-dichloroaniline	3,4-Dichloroaniline	water	filtered	recoverable	micrograms per liter
+3,5-dichloroaniline	3,5-Dichloroaniline	water	filtered	recoverable	micrograms per liter
+4-chloro-2-methylphenol	4-Chloro-2-methylphenol	water	filtered	recoverable	micrograms per liter
+azinphos-methyl oxygen analog	Azinphos-methyl oxygen analog	water	filtered	recoverable	micrograms per liter
+chlorpyrifos oxygen analog	Chlorpyrifos oxygen analog	water	filtered	recoverable	micrograms per liter
+diazoxon	Diazoxon	water	filtered	recoverable	micrograms per liter
+disulfoton sulfone	Disulfoton sulfone	water	filtered	recoverable	micrograms per liter
+ethion monoxon	Ethion monoxon	water	filtered	recoverable	micrograms per liter
+fenamiphos sulfone	Fenamiphos sulfone	water	filtered	recoverable	micrograms per liter
+fenamiphos sulfoxide	Fenamiphos sulfoxide	water	filtered	recoverable	micrograms per liter
+malaoxon	Malaoxon	water	filtered	recoverable	micrograms per liter
+methyl paraoxon	Methyl paraoxon	water	filtered	recoverable	micrograms per liter
+phorate oxygen analog	Phorate oxygen analog	water	filtered	recoverable	micrograms per liter
+phosmet oxygen analog	Phosmet oxygen analog	water	filtered	recoverable	micrograms per liter
+terbufos oxygen analog sulfone	Terbufos oxygen analog sulfone	water	filtered	recoverable	micrograms per liter
+n-(4-chlorophenyl)-n'-methylurea	N-(4-Chlorophenyl)-N'-methylurea	water	filtered	recoverable	micrograms per liter
+bensulfuron-methyl	Bensulfuron-methyl	water	filtered	recoverable	micrograms per liter
+flumetsulam	Flumetsulam	water	filtered	recoverable	micrograms per liter
+imidacloprid	Imidacloprid	water	filtered	recoverable	micrograms per liter
+metsulfuron-methyl	Metsulfuron-methyl	water	filtered	recoverable	micrograms per liter
+3-tert-butyl-4-hydroxyanisole	3-tert-Butyl-4-hydroxyanisole	water	unfiltered	recoverable	micrograms per liter
+4-nonylphenol diethoxylate (sum of all isomers)	4-Nonylphenol diethoxylate (sum of all isomers)	water	unfiltered	recoverable	micrograms per liter
+4-nonylphenol monoethoxylate (sum of all isomers)	4-Nonylphenol monoethoxylate (sum of all isomers)	water	unfiltered	recoverable	micrograms per liter
+tris(dichloroisopropyl) phosphate	Tris(dichloroisopropyl) phosphate	water	unfiltered	recoverable	micrograms per liter
+triclosan	Triclosan	water	unfiltered	recoverable	micrograms per liter
+absorbance	Absorbance	UV	organic constituents	280 nm	1 cm path length	water	filtered	absorbance units per centimeter
+5-methyl-1h-benzotriazole	5-Methyl-1H-benzotriazole	water	unfiltered	recoverable	micrograms per liter
+cotinine	Cotinine	water	unfiltered	recoverable	micrograms per liter
+n,n-diethyl-m-toluamide (deet)	N,N-Diethyl-m-toluamide (DEET)	water	unfiltered	recoverable	micrograms per liter
+beta-stigmastanol	beta-Stigmastanol	water	unfiltered	recoverable	micrograms per liter
+acetaminophen	Acetaminophen	water	filtered	recoverable	micrograms per liter
+codeine	Codeine	water	filtered	recoverable	micrograms per liter
+dehydronifedipine	Dehydronifedipine	water	filtered	recoverable	micrograms per liter
+cotinine	Cotinine	water	filtered	recoverable	micrograms per liter
+diltiazem	Diltiazem	water	filtered	recoverable	micrograms per liter
+albuterol	Albuterol	water	filtered	recoverable	micrograms per liter
+sulfamethoxazole	Sulfamethoxazole	water	filtered	recoverable	micrograms per liter
+trimethoprim	Trimethoprim	water	filtered	recoverable	micrograms per liter
+warfarin	Warfarin	water	filtered	recoverable	micrograms per liter
+1,7-dimethylxanthine	1,7-Dimethylxanthine	water	filtered	recoverable	micrograms per liter
+fipronil	Fipronil	water	filtered	recoverable	micrograms per liter
+fipronil sulfide	Fipronil sulfide	water	filtered	recoverable	micrograms per liter
+fipronil sulfone	Fipronil sulfone	water	filtered	recoverable	micrograms per liter
+desulfinylfipronil amide	Desulfinylfipronil amide	water	filtered	recoverable	micrograms per liter
+desulfinylfipronil	Desulfinylfipronil	water	filtered	recoverable	micrograms per liter
+2,2-dichloro-1,1,1-trifluoroethane	2,2-Dichloro-1,1,1-trifluoroethane	water	unfiltered	recoverable	micrograms per liter
+pheophytin a	Pheophytin a	phytoplankton	micrograms per liter
+arsenite	Arsenite	water	filtered	micrograms per liter as arsenic
+carbon [inorganic plus organic]	Carbon [inorganic plus organic]	bed sediment	dry weight	percent
+4-tert-octylphenol monoethoxylate	4-tert-Octylphenol monoethoxylate	water	unfiltered	recoverable	micrograms per liter
+4-tert-octylphenol diethoxylate	4-tert-Octylphenol diethoxylate	water	unfiltered	recoverable	micrograms per liter
+gross alpha radioactivity	Gross alpha radioactivity	72 hour count	water	filtered	Th-230 curve	picocuries per liter
+gross alpha radioactivity	Gross alpha radioactivity	30 day count	water	filtered	Th-230 curve	picocuries per liter
+gross beta radioactivity	Gross beta radioactivity	72 hour count	water	filtered	Cs-137 curve	picocuries per liter
+gross beta radioactivity	Gross beta radioactivity	30 day count	water	filtered	Cs-137 curve	picocuries per liter
+delta boron-11/boron-10	delta boron-11/boron-10	water	filtered	per mil
+carbamazepine	Carbamazepine	water	filtered	recoverable	micrograms per liter
+diphenhydramine	Diphenhydramine	water	filtered	recoverable	micrograms per liter
+thiabendazole	Thiabendazole	water	filtered	recoverable	micrograms per liter
+2,6-dimethylnaphthalene	2,6-Dimethylnaphthalene	water	unfiltered	recoverable	micrograms per liter
+3-beta-coprostanol	3-beta-Coprostanol	water	unfiltered	recoverable	micrograms per liter
+3-methyl-1h-indole	3-Methyl-1H-indole	water	unfiltered	recoverable	micrograms per liter
+4-cumylphenol	4-Cumylphenol	water	unfiltered	recoverable	micrograms per liter
+4-n-octylphenol	4-n-Octylphenol	water	unfiltered	recoverable	micrograms per liter
+4-tert-octylphenol	4-tert-Octylphenol	water	unfiltered	recoverable	micrograms per liter
+acetophenone	Acetophenone	water	unfiltered	recoverable	micrograms per liter
+acetyl hexamethyl tetrahydro naphthalene	Acetyl hexamethyl tetrahydro naphthalene	water	unfiltered	recoverable	micrograms per liter
+9,10-anthraquinone	9,10-Anthraquinone	water	unfiltered	recoverable	micrograms per liter
+benzophenone	Benzophenone	water	unfiltered	recoverable	micrograms per liter
+beta-sitosterol	beta-Sitosterol	water	unfiltered	recoverable	micrograms per liter
+bisphenol a	Bisphenol A	water	unfiltered	recoverable	micrograms per liter
+camphor	Camphor	water	unfiltered	recoverable	micrograms per liter
+cholesterol	Cholesterol	water	unfiltered	recoverable	micrograms per liter
+d-limonene	D-Limonene	water	unfiltered	recoverable	micrograms per liter
+hexahydrohexamethyl cyclopentabenzopyran	Hexahydrohexamethyl cyclopentabenzopyran	water	unfiltered	recoverable	micrograms per liter
+indole	Indole	water	unfiltered	recoverable	micrograms per liter
+isoborneol	Isoborneol	water	unfiltered	recoverable	micrograms per liter
+isoquinoline	Isoquinoline	water	unfiltered	recoverable	micrograms per liter
+menthol	Menthol	water	unfiltered	recoverable	micrograms per liter
+methyl salicylate	Methyl salicylate	water	unfiltered	recoverable	micrograms per liter
+4-nonylphenol (sum of all isomers)	4-Nonylphenol (sum of all isomers)	water	unfiltered	recoverable	micrograms per liter
+tris(2-butoxyethyl) phosphate	Tris(2-butoxyethyl) phosphate	water	unfiltered	recoverable	micrograms per liter
+tris(2-chloroethyl) phosphate	Tris(2-chloroethyl) phosphate	water	unfiltered	recoverable	micrograms per liter
+tributyl phosphate	Tributyl phosphate	water	unfiltered	recoverable	micrograms per liter
+triethyl citrate	Triethyl citrate	water	unfiltered	recoverable	micrograms per liter
+triphenyl phosphate	Triphenyl phosphate	water	unfiltered	recoverable	micrograms per liter
+isobutyl alcohol-d6	Isobutyl alcohol-d6	surrogate	water	unfiltered	percent recovery
+bisphenol a-d3	Bisphenol A-d3	surrogate	NWQL schedule 4433 and labcode 8033 (WWWW)	water	unfiltered	percent recovery
+caffeine-13c	Caffeine-13C	surrogate	NWQL schedule 4433 and labcode 8033 (WWWW)	water	unfiltered	percent recovery
+decafluorobiphenyl	Decafluorobiphenyl	surrogate	NWQL schedule 4433 and labcode 8033 (WWWW)	water	unfiltered	percent recovery
+fluoranthene-d10	Fluoranthene-d10	surrogate	NWQL schedule 4433 and labcode 8033 (WWWW)	water	unfiltered	percent recovery
+total nitrogen [nitrate + nitrite + ammonia + organic-n]	Total nitrogen [nitrate + nitrite + ammonia + organic-N]	water	filtered	analytically determined	milligrams per liter
+total nitrogen [nitrate + nitrite + ammonia + organic-n]	Total nitrogen [nitrate + nitrite + ammonia + organic-N]	water	unfiltered	analytically determined	milligrams per liter
+delta oxygen-18/oxygen-16 of nitrate	delta oxygen-18/oxygen-16 of nitrate	water	filtered	per mil
+3,4-dichlorophenyl isocyanate	3,4-Dichlorophenyl isocyanate	water	unfiltered	recoverable	micrograms per liter
+bde congener 47	BDE congener 47	water	unfiltered	recoverable	micrograms per liter
+specific uv absorbance	Specific UV Absorbance	254 nm	water	filtered	1 cm path length	calculated	liter per (milligram of dissolved organic carbon * meter)
+1,4-dichlorobenzene	1,4-Dichlorobenzene	solids	recoverable	dry weight	micrograms per kilogram
+1-methylnaphthalene	1-Methylnaphthalene	solids	recoverable	dry weight	micrograms per kilogram
+2,6-dimethylnaphthalene	2,6-Dimethylnaphthalene	solids	recoverable	dry weight	micrograms per kilogram
+2-methylnaphthalene	2-Methylnaphthalene	solids	recoverable	dry weight	micrograms per kilogram
+3-beta-coprostanol	3-beta-Coprostanol	solids	recoverable	dry weight	micrograms per kilogram
+3-methyl-1h-indole	3-Methyl-1H-indole	solids	recoverable	dry weight	micrograms per kilogram
+3-tert-butyl-4-hydroxyanisole	3-tert-Butyl-4-hydroxyanisole	solids	recoverable	dry weight	micrograms per kilogram
+4-cumylphenol	4-Cumylphenol	solids	recoverable	dry weight	micrograms per kilogram
+4-n-octylphenol	4-n-Octylphenol	solids	recoverable	dry weight	micrograms per kilogram
+4-nonylphenol (sum of all isomers)	4-Nonylphenol (sum of all isomers)	solids	recoverable	dry weight	micrograms per kilogram
+4-tert-octylphenol	4-tert-Octylphenol	solids	recoverable	dry weight	micrograms per kilogram
+acetophenone	Acetophenone	solids	recoverable	dry weight	micrograms per kilogram
+acetyl hexamethyl tetrahydro naphthalene	Acetyl hexamethyl tetrahydro naphthalene	solids	recoverable	dry weight	micrograms per kilogram
+anthracene	Anthracene	solids	recoverable	dry weight	micrograms per kilogram
+9,10-anthraquinone	9,10-Anthraquinone	solids	recoverable	dry weight	micrograms per kilogram
+atrazine	Atrazine	solids	recoverable	dry weight	micrograms per kilogram
+benzo[a]pyrene	Benzo[a]pyrene	solids	recoverable	dry weight	micrograms per kilogram
+benzophenone	Benzophenone	solids	recoverable	dry weight	micrograms per kilogram
+beta-sitosterol	beta-Sitosterol	solids	recoverable	dry weight	micrograms per kilogram
+beta-stigmastanol	beta-Stigmastanol	solids	recoverable	dry weight	micrograms per kilogram
+bis(2-ethylhexyl) phthalate	Bis(2-ethylhexyl) phthalate	solids	recoverable	dry weight	micrograms per kilogram
+bisphenol a	Bisphenol A	solids	recoverable	dry weight	micrograms per kilogram
+bromacil	Bromacil	solids	recoverable	dry weight	micrograms per kilogram
+camphor	Camphor	solids	recoverable	dry weight	micrograms per kilogram
+carbazole	Carbazole	solids	recoverable	dry weight	micrograms per kilogram
+chlorpyrifos	Chlorpyrifos	solids	recoverable	dry weight	micrograms per kilogram
+cholesterol	Cholesterol	solids	recoverable	dry weight	micrograms per kilogram
+diazinon	Diazinon	solids	recoverable	dry weight	micrograms per kilogram
+4-nonylphenol diethoxylate (sum of all isomers)	4-Nonylphenol diethoxylate (sum of all isomers)	solids	recoverable	dry weight	micrograms per kilogram
+4-tert-octylphenol diethoxylate	4-tert-Octylphenol diethoxylate	solids	recoverable	dry weight	micrograms per kilogram
+diethyl phthalate	Diethyl phthalate	solids	recoverable	dry weight	micrograms per kilogram
+d-limonene	D-Limonene	solids	recoverable	dry weight	micrograms per kilogram
+4-tert-octylphenol monoethoxylate	4-tert-Octylphenol monoethoxylate	solids	recoverable	dry weight	micrograms per kilogram
+fluoranthene	Fluoranthene	solids	recoverable	dry weight	micrograms per kilogram
+hexahydrohexamethyl cyclopentabenzopyran	Hexahydrohexamethyl cyclopentabenzopyran	solids	recoverable	dry weight	micrograms per kilogram
+indole	Indole	solids	recoverable	dry weight	micrograms per kilogram
+isoborneol	Isoborneol	solids	recoverable	dry weight	micrograms per kilogram
+isophorone	Isophorone	solids	recoverable	dry weight	micrograms per kilogram
+isopropylbenzene	Isopropylbenzene	solids	recoverable	dry weight	micrograms per kilogram
+isoquinoline	Isoquinoline	solids	recoverable	dry weight	micrograms per kilogram
+menthol	Menthol	solids	recoverable	dry weight	micrograms per kilogram
+metolachlor	Metolachlor	solids	recoverable	dry weight	micrograms per kilogram
+n,n-diethyl-m-toluamide (deet)	N,N-Diethyl-m-toluamide (DEET)	solids	recoverable	dry weight	micrograms per kilogram
+naphthalene	Naphthalene	solids	recoverable	dry weight	micrograms per kilogram
+4-nonylphenol monoethoxylate (sum of all isomers)	4-Nonylphenol monoethoxylate (sum of all isomers)	solids	recoverable	dry weight	micrograms per kilogram
+p-cresol	p-Cresol	solids	recoverable	dry weight	micrograms per kilogram
+phenanthrene	Phenanthrene	solids	recoverable	dry weight	micrograms per kilogram
+phenol	Phenol	solids	recoverable	dry weight	micrograms per kilogram
+prometon	Prometon	solids	recoverable	dry weight	micrograms per kilogram
+pyrene	Pyrene	solids	recoverable	dry weight	micrograms per kilogram
+tris(2-butoxyethyl) phosphate	Tris(2-butoxyethyl) phosphate	solids	recoverable	dry weight	micrograms per kilogram
+tris(2-chloroethyl) phosphate	Tris(2-chloroethyl) phosphate	solids	recoverable	dry weight	micrograms per kilogram
+tributyl phosphate	Tributyl phosphate	solids	recoverable	dry weight	micrograms per kilogram
+triclosan	Triclosan	solids	recoverable	dry weight	micrograms per kilogram
+triphenyl phosphate	Triphenyl phosphate	solids	recoverable	dry weight	micrograms per kilogram
+tris(dichloroisopropyl) phosphate	Tris(dichloroisopropyl) phosphate	solids	recoverable	dry weight	micrograms per kilogram
+turbidity	Turbidity	water	unfiltered	broad band light source (400-680 nm)	detection angle 90 +-30 degrees to incident light	nephelometric turbidity units (NTU)
+turbidity	Turbidity	water	unfiltered	broad band light source (400-680 nm)	detectors at multiple angles including 90 +-30 degrees	ratiometric correction	NTRU
+turbidity	Turbidity	water	unfiltered	monochrome near infra-red LED light	780-900 nm	detection angle 90 +-2.5 degrees	formazin nephelometric units (FNU)
+hydrophobic acid fraction of dissolved organic carbon	Hydrophobic acid fraction of dissolved organic carbon	water	filtered	percent
+hydrophilic acid fraction of dissolved organic carbon	Hydrophilic acid fraction of dissolved organic carbon	water	filtered	percent
+transphilic organic acid fraction of dissolved organic carbon	Transphilic organic acid fraction of dissolved organic carbon	water	filtered	percent
+specific uv absorbance at 254 nm of hydrophobic acid fraction of doc	Specific UV absorbance at 254 nm of hydrophobic acid fraction of DOC	water	filtered	100 times the absorbance per centimeter per milligram per liter of hydrophobic acid
+specific uv absorbance at 254 nm of hydrophilic acid fraction of doc	Specific UV absorbance at 254 nm of hydrophilic acid fraction of DOC	water	filtered	100 times the absorbance per centimeter per milligram per liter of hydrophilic acid
+specific uv absorbance at 254 nm of transphilic organic acid fraction of doc	Specific UV absorbance at 254 nm of transphilic organic acid fraction of DOC	water	filtered	100 times the absorbance per centimeter per mg/L of transphilic acid
+bicarbonate	Bicarbonate	water	filtered	Gran titration	field	milligrams per liter
+carbonate	Carbonate	water	filtered	Gran titration	field	milligrams per liter
+perchlorate	Perchlorate	water	filtered	micrograms per liter
+n-nitrosodimethylamine (ndma)	N-Nitrosodimethylamine (NDMA)	water	unfiltered	recoverable	nanograms per liter
+delta carbon-13/carbon-12 of methane	delta carbon-13/carbon-12 of methane	water	dissolved	relative to Vienna PeeDee belemnite (VPDB)	per mil
+delta carbon-13/carbon-12 of ethane	delta carbon-13/carbon-12 of ethane	water	dissolved	headspace method	relative to Vienna PeeDee belemnite (VPDB)	per mil
+delta hydrogen-2/hydrogen-1 of methane	delta hydrogen-2/hydrogen-1 of methane	water	dissolved	relative to Vienna Standard Mean Ocean Water (VSMOW)	per mil
+2,4-d plus 2,4-d methyl ester	2,4-D plus 2,4-D methyl ester	sum on a molar basis	micrograms per liter as 2,4-D
+1-methoxy-4-(2-propenyl)benzene	1-Methoxy-4-(2-propenyl)benzene	water	unfiltered	recoverable	micrograms per liter
+bis(2-chloro-1-methylethyl) ether	Bis(2-chloro-1-methylethyl) ether	water	unfiltered	recoverable	micrograms per liter
+1,3-butadiene	1,3-Butadiene	water	unfiltered	recoverable	micrograms per liter
+2-ethoxyethyl acetate	2-Ethoxyethyl acetate	water	unfiltered	recoverable	micrograms per liter
+2-propen-1-ol	2-Propen-1-ol	water	unfiltered	recoverable	micrograms per liter
+alpha-terpineol	alpha-Terpineol	water	unfiltered	recoverable	micrograms per liter
+butanal	Butanal	water	unfiltered	recoverable	micrograms per liter
+trans-crotonaldehyde	trans-Crotonaldehyde	water	unfiltered	recoverable	micrograms per liter
+methane	Methane	water	dissolved	recoverable	mole percent of dissolved gases
+ethane	Ethane	water	dissolved	recoverable	mole percent of dissolved gases
+ethene	Ethene	water	dissolved	recoverable	mole percent of dissolved gases
+propane	Propane	water	dissolved	recoverable	mole percent of dissolved gases
+2-methylpropane (isobutane)	2-Methylpropane (isobutane)	water	dissolved	recoverable	mole percent of dissolved gases
+n-butane	n-Butane	water	dissolved	recoverable	mole percent of dissolved gases
+2-methylbutane (isopentane)	2-Methylbutane (isopentane)	water	dissolved	recoverable	mole percent of dissolved gases
+n-pentane	n-Pentane	water	dissolved	recoverable	mole percent of dissolved gases
+methane	Methane	water	dissolved	recoverable	milligrams per liter
+ethane	Ethane	water	dissolved	recoverable	milligrams per liter
+propane	Propane	water	dissolved	recoverable	milligrams per liter
+dissolved solids dried at 180 degrees celsius	Dissolved solids dried at 180 degrees Celsius	water	filtered	milligrams per liter
+dissolved solids	Dissolved solids	water	filtered	sum of constituents	milligrams per liter
+dissolved solids	Dissolved solids	water	short tons per day
+dissolved solids	Dissolved solids	water	filtered	short tons per acre-foot
+suspended sediment	Suspended sediment	sieve diameter	percent smaller than 0.0625 millimeters
+suspended sediment	Suspended sediment	sieve diameter	percent smaller than 0.125 millimeters
+suspended sediment	Suspended sediment	sieve diameter	percent smaller than 0.25 millimeters
+suspended sediment	Suspended sediment	sieve diameter	percent smaller than 0.5 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.002 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.004 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.008 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.016 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.031 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.0625 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.125 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.25 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 0.5 millimeters
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 1 millimeter
+suspended sediment	Suspended sediment	fall diameter (deionized water)	percent smaller than 2 millimeters
+orthophosphate	Orthophosphate	water	unfiltered	milligrams per liter as phosphorus
+biomass to chlorophyll ratio	Biomass to chlorophyll ratio	periphyton	number
+chlorophyll a	Chlorophyll a	phytoplankton	chromatographic-fluorometric method	micrograms per liter
+chlorophyll a	Chlorophyll a	periphyton	chromatographic-fluorometric method	milligrams per square meter
+chlorophyll b	Chlorophyll b	periphyton	chromatographic-fluorometric method	milligrams per square meter
+hydroxide	Hydroxide	water	unfiltered	fixed endpoint (pH 10.4) titration	field	milligrams per liter
+hydroxide	Hydroxide	water	unfiltered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+hydroxide	Hydroxide	water	filtered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+ammonia (nh3 + nh4+)	Ammonia (NH3 + NH4+)	water	unfiltered	milligrams per liter as NH4
+ammonia (nh3 + nh4+)	Ammonia (NH3 + NH4+)	water	filtered	milligrams per liter as NH4
+nitrate	Nitrate	water	unfiltered	milligrams per liter as nitrate
+nitrate	Nitrate	water	filtered	milligrams per liter as nitrate
+nitrite	Nitrite	water	filtered	milligrams per liter as nitrite
+iodide	Iodide	water	filtered	milligrams per liter
+bromide	Bromide	water	filtered	milligrams per liter
+hydrogen sulfide	Hydrogen sulfide	water	unfiltered	milligrams per liter
+phosphorus	Phosphorus	water	unfiltered	milligrams per liter as PO4
+total nitrogen [nitrate + nitrite + ammonia + organic-n]	Total nitrogen [nitrate + nitrite + ammonia + organic-N]	water	unfiltered	milligrams per liter as nitrate
+mercury	Mercury	water	filtered	micrograms per liter
+mercury	Mercury	suspended sediment	recoverable	micrograms per liter
+mercury	Mercury	water	unfiltered	recoverable	micrograms per liter
+mercury	Mercury	bed sediment	recoverable	dry weight	milligrams per kilogram
+sample purpose	Sample purpose	code
+altitude of land surface	Altitude of land surface	feet
+depth of hole	Depth of hole	feet below land surface datum
+pump or flow period prior to sampling	Pump or flow period prior to sampling	minutes
+sample source	Sample source	code
+sampling condition	Sampling condition	code
+depth of well	Depth of well	feet below land surface datum
+depth to top of sample interval	Depth to top of sample interval	feet below land surface datum
+depth to bottom of sample interval	Depth to bottom of sample interval	feet below land surface datum
+depth to water level	Depth to water level	feet below land surface
+elevation of sample	Elevation of sample	feet
+trans-1,4-dichloro-2-butene	trans-1,4-Dichloro-2-butene	water	unfiltered	recoverable	micrograms per liter
+ethyl methacrylate	Ethyl methacrylate	water	unfiltered	recoverable	micrograms per liter
+strontium-87/strontium-86 ratio	Strontium-87/strontium-86 ratio	water	filtered	ratio
+tritium 2-sigma combined uncertainty	Tritium 2-sigma combined uncertainty	water	unfiltered	picocuries per liter
+radon-222 2-sigma combined uncertainty	Radon-222 2-sigma combined uncertainty	water	unfiltered	picocuries per liter
+acetonitrile	Acetonitrile	water	unfiltered	recoverable	micrograms per liter
+methyl acetate	Methyl acetate	water	unfiltered	recoverable	micrograms per liter
+1-butanol	1-Butanol	water	unfiltered	recoverable	micrograms per liter
+tert-butyl alcohol	tert-Butyl alcohol	water	unfiltered	recoverable	micrograms per liter
+carbon disulfide	Carbon disulfide	water	unfiltered	micrograms per liter
+n-pentanal	n-Pentanal	water	unfiltered	recoverable	micrograms per liter
+tert-amyl alcohol	tert-Amyl alcohol	water	unfiltered	recoverable	micrograms per liter
+2-nitropropane	2-Nitropropane	water	unfiltered	recoverable	micrograms per liter
+cis-1,2-dichloroethene	cis-1,2-Dichloroethene	water	unfiltered	recoverable	micrograms per liter
+n-butyl methyl ketone	n-Butyl methyl ketone	water	unfiltered	recoverable	micrograms per liter
+4-methyl-2-pentanol	4-Methyl-2-pentanol	water	unfiltered	recoverable	micrograms per liter
+dichlorofluoromethane	Dichlorofluoromethane	water	unfiltered	recoverable	micrograms per liter
+styrene	Styrene	water	unfiltered	recoverable	micrograms per liter
+o-xylene	o-Xylene	water	unfiltered	recoverable	micrograms per liter
+p-cresol	p-Cresol	water	unfiltered	recoverable	micrograms per liter
+o-cresol	o-Cresol	water	unfiltered	recoverable	micrograms per liter
+1,1-dichloropropene	1,1-Dichloropropene	water	unfiltered	recoverable	micrograms per liter
+2,2-dichloropropane	2,2-Dichloropropane	water	unfiltered	recoverable	micrograms per liter
+1,3-dichloropropane	1,3-Dichloropropane	water	unfiltered	recoverable	micrograms per liter
+5-methyl-2-hexanone	5-Methyl-2-hexanone	water	unfiltered	recoverable	micrograms per liter
+2-methylpropyl acetate	2-Methylpropyl acetate	water	unfiltered	recoverable	micrograms per liter
+2-ethyltoluene	2-Ethyltoluene	water	unfiltered	recoverable	micrograms per liter
+1,2,3-trimethylbenzene	1,2,3-Trimethylbenzene	water	unfiltered	recoverable	micrograms per liter
+1,2,4-trimethylbenzene	1,2,4-Trimethylbenzene	water	unfiltered	recoverable	micrograms per liter
+isopropylbenzene	Isopropylbenzene	water	unfiltered	recoverable	micrograms per liter
+n-propylbenzene	n-Propylbenzene	water	unfiltered	recoverable	micrograms per liter
+1,3,5-trimethylbenzene	1,3,5-Trimethylbenzene	water	unfiltered	recoverable	micrograms per liter
+benzoic acid	Benzoic acid	water	unfiltered	recoverable	micrograms per liter
+2-chlorotoluene	2-Chlorotoluene	water	unfiltered	recoverable	micrograms per liter
+4-chlorotoluene	4-Chlorotoluene	water	unfiltered	recoverable	micrograms per liter
+bromochloromethane	Bromochloromethane	water	unfiltered	recoverable	micrograms per liter
+1-octanol	1-Octanol	water	unfiltered	recoverable	micrograms per liter
+1,2,3,4-tetrahydronaphthalene	1,2,3,4-Tetrahydronaphthalene	water	unfiltered	recoverable	micrograms per liter
+n-butylbenzene	n-Butylbenzene	water	unfiltered	recoverable	micrograms per liter
+sec-butylbenzene	sec-Butylbenzene	water	unfiltered	recoverable	micrograms per liter
+tert-butylbenzene	tert-Butylbenzene	water	unfiltered	recoverable	micrograms per liter
+4-isopropyltoluene	4-Isopropyltoluene	water	unfiltered	recoverable	micrograms per liter
+2,6-dimethyl-4-heptanone	2,6-Dimethyl-4-heptanone	water	unfiltered	recoverable	micrograms per liter
+iodomethane	Iodomethane	water	unfiltered	recoverable	micrograms per liter
+1,2,3-trichloropropane	1,2,3-Trichloropropane	water	unfiltered	recoverable	micrograms per liter
+chloropicrin	Chloropicrin	water	unfiltered	recoverable	micrograms per liter
+1,1,1,2-tetrachloroethane	1,1,1,2-Tetrachloroethane	water	unfiltered	recoverable	micrograms per liter
+carbazole	Carbazole	water	unfiltered	recoverable	micrograms per liter
+1,2,3-trichlorobenzene	1,2,3-Trichlorobenzene	water	unfiltered	recoverable	micrograms per liter
+1,2-dibromoethane	1,2-Dibromoethane	water	unfiltered	recoverable	micrograms per liter
+1,1,2-trichloro-1,2,2-trifluoroethane	1,1,2-Trichloro-1,2,2-trifluoroethane	water	unfiltered	recoverable	micrograms per liter
+2,4,5-trichlorophenol	2,4,5-Trichlorophenol	water	unfiltered	recoverable	micrograms per liter
+alachlor	Alachlor	water	unfiltered	recoverable	micrograms per liter
+methyl tert-butyl ether	Methyl tert-butyl ether	water	unfiltered	recoverable	micrograms per liter
+3-chloropropene	3-Chloropropene	water	unfiltered	recoverable	micrograms per liter
+isobutyl methyl ketone	Isobutyl methyl ketone	water	unfiltered	recoverable	micrograms per liter
+n-nitrosodiethylamine	N-Nitrosodiethylamine	water	unfiltered	recoverable	micrograms per liter
+3-nitroaniline	3-Nitroaniline	water	unfiltered	recoverable	micrograms per liter
+cis-propiconazole	cis-Propiconazole	water	filtered	recoverable	micrograms per liter
+trans-propiconazole	trans-Propiconazole	water	filtered	recoverable	micrograms per liter
+suspended sediment concentration	Suspended sediment concentration	milligrams per liter
+suspended sediment discharge	Suspended sediment discharge	short tons per day
+1,1-dichloro-2-propanone	1,1-Dichloro-2-propanone	water	unfiltered	recoverable	micrograms per liter
+drainage area	Drainage area	square miles
+dibenzofuran	Dibenzofuran	water	unfiltered	recoverable	micrograms per liter
+filter pore size	Filter pore size	micrometers
+radium-228	Radium-228	water	filtered	picocuries per liter
+caffeine	Caffeine	water	unfiltered	recoverable	micrograms per liter
+xylene (all isomers)	Xylene (all isomers)	water	unfiltered	recoverable	micrograms per liter
+acetone	Acetone	water	unfiltered	recoverable	micrograms per liter
+bromobenzene	Bromobenzene	water	unfiltered	recoverable	micrograms per liter
+butane	Butane	water	unfiltered	recoverable	micrograms per liter
+diethyl ether	Diethyl ether	water	unfiltered	recoverable	micrograms per liter
+diisopropyl ether	Diisopropyl ether	water	unfiltered	recoverable	micrograms per liter
+dimethoxymethane	Dimethoxymethane	water	unfiltered	recoverable	micrograms per liter
+1,4-dioxane	1,4-Dioxane	water	unfiltered	recoverable	micrograms per liter
+1,3-dioxolane	1,3-Dioxolane	water	unfiltered	recoverable	micrograms per liter
+ethyl acetate	Ethyl acetate	water	unfiltered	recoverable	micrograms per liter
+hexane	Hexane	water	unfiltered	recoverable	micrograms per liter
+methyl acrylonitrile	Methyl acrylonitrile	water	unfiltered	recoverable	micrograms per liter
+methyl ethyl ketone	Methyl ethyl ketone	water	unfiltered	recoverable	micrograms per liter
+methyl methacrylate	Methyl methacrylate	water	unfiltered	recoverable	micrograms per liter
+n-pentane	n-Pentane	water	unfiltered	recoverable	micrograms per liter
+tetrahydrofuran	Tetrahydrofuran	water	unfiltered	recoverable	micrograms per liter
+1-methylnaphthalene	1-Methylnaphthalene	water	unfiltered	recoverable	micrograms per liter
+cyanazine	Cyanazine	water	unfiltered	recoverable	micrograms per liter
+p,p'-ethyl-ddd	p,p'-Ethyl-DDD	bed sediment	recoverable	dry weight	micrograms per kilogram
+depth to bottom at sample location	Depth to bottom at sample location	feet
+mean depth of lake	Mean depth of lake	feet
+potassium-40	Potassium-40	water	filtered	picocuries per liter
+delta carbon-13/carbon-12	delta carbon-13/carbon-12	water	unfiltered	per mil
+delta hydrogen-2/hydrogen-1	delta hydrogen-2/hydrogen-1	water	unfiltered	per mil
+delta oxygen-18/oxygen-16	delta oxygen-18/oxygen-16	water	unfiltered	per mil
+ametryn	Ametryn	water	unfiltered	recoverable	micrograms per liter
+atraton	Atraton	water	unfiltered	recoverable	micrograms per liter
+cyprazine	Cyprazine	water	unfiltered	recoverable	micrograms per liter
+simetone	Simetone	water	unfiltered	recoverable	micrograms per liter
+radon-222	Radon-222	water	unfiltered	picocuries per liter
+ethion	Ethion	water	filtered	recoverable	micrograms per liter
+sampling method	Sampling method	code
+metribuzin	Metribuzin	water	unfiltered	recoverable	micrograms per liter
+metolachlor	Metolachlor	water	unfiltered	recoverable	micrograms per liter
+1,2-dibromo-3-chloropropane	1,2-Dibromo-3-chloropropane	water	unfiltered	recoverable	micrograms per liter
+1,2-diphenylhydrazine	1,2-Diphenylhydrazine	water	unfiltered	recoverable	micrograms per liter
+metribuzin	Metribuzin	water	filtered	recoverable	micrograms per liter
+2,6-diethylaniline	2,6-Diethylaniline	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+trifluralin	Trifluralin	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dimethoate	Dimethoate	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+ethalfluralin	Ethalfluralin	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+phorate	Phorate	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+terbacil	Terbacil	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+linuron	Linuron	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+methyl parathion	Methyl parathion	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+eptc	EPTC	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+pebulate	Pebulate	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+tebuthiuron	Tebuthiuron	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+molinate	Molinate	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+ethoprop	Ethoprop	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+benfluralin	Benfluralin	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+carbofuran	Carbofuran	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+terbufos	Terbufos	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+propyzamide	Propyzamide	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+disulfoton	Disulfoton	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+triallate	Triallate	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+propanil	Propanil	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+carbaryl	Carbaryl	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+thiobencarb	Thiobencarb	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+dcpa	DCPA	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+pendimethalin	Pendimethalin	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+napropamide	Napropamide	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+propargite	Propargite	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+azinphos-methyl	Azinphos-methyl	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+cis-permethrin	cis-Permethrin	water	filtered (0.7 micron glass fiber filter)	recoverable	micrograms per liter
+delta nitrogen-15/nitrogen-14 of nitrate	delta nitrogen-15/nitrogen-14 of nitrate	water	filtered	per mil
+delta nitrogen-15/nitrogen-14 of ammonia	delta nitrogen-15/nitrogen-14 of ammonia	water	filtered	per mil
+delta nitrogen-15/nitrogen-14 of dinitrogen	delta nitrogen-15/nitrogen-14 of dinitrogen	water	unfiltered	per mil
+delta chromium-53/chromium-52	delta chromium-53/chromium-52	water	filtered	per mil
+depth to bottom from water surface	Depth to bottom from water surface	at sampling location	meters
+sampler type	Sampler type	code
+helium-4	Helium-4	water	dissolved	cubic centimeters per gram at standard temperature and pressure
+helium-4 error	Helium-4 error	water	unfiltered	cubic centimeters per gram at standard temperature and pressure
+argon	Argon	water	dissolved	cubic centimeters per gram at standard temperature and pressure
+argon error	Argon error	water	unfiltered	cubic centimeters per gram at standard temperature and pressure
+krypton	Krypton	water	dissolved	cubic centimeters per gram at standard temperature and pressure
+krypton error	Krypton error	water	unfiltered	cubic centimeters per gram at standard temperature and pressure
+xenon	Xenon	water	dissolved	cubic centimeters per gram at standard temperature and pressure
+xenon error	Xenon error	water	unfiltered	cubic centimeters per gram at standard temperature and pressure
+helium-3/helium-4 error	Helium-3/helium-4 error	water	unfiltered	ratio
+1-chloro-1,1-difluoroethane	1-Chloro-1,1-difluoroethane	water	unfiltered	recoverable	micrograms per liter
+m-xylene plus p-xylene	m-Xylene plus p-xylene	water	unfiltered	recoverable	micrograms per liter
+specific conductance	Specific conductance	water	unfiltered	laboratory	microsiemens per centimeter at 25 degrees Celsius
+acid neutralizing capacity	Acid neutralizing capacity	water	unfiltered	fixed endpoint (pH 4.5) titration	laboratory	milligrams per liter as calcium carbonate
+1-bromo-3-chloropropane-d6	1-Bromo-3-chloropropane-d6	surrogate	water	unfiltered	percent recovery
+tetrahydrofuran-d8	Tetrahydrofuran-d8	surrogate	water	unfiltered	percent recovery
+phenol-d5	Phenol-d5	surrogate	NWQL schedules 1383/1385	water	unfiltered	percent recovery
+barban	Barban	surrogate	NWQL schedules 2060/9060	water	filtered	percent recovery
+2,4,6-tribromophenol	2,4,6-Tribromophenol	surrogate	water	unfiltered	percent recovery
+1-bromo-4-fluorobenzene	1-Bromo-4-fluorobenzene	surrogate	water	unfiltered	ambient purge and trap method	percent recovery
+toluene-d8	Toluene-d8	surrogate	water	unfiltered	ambient purge and trap method	percent recovery
+1-bromo-4-fluorobenzene	1-Bromo-4-fluorobenzene	surrogate	water	unfiltered	ambient purge and trap method	percent recovery
+toluene-d8	Toluene-d8	surrogate	NWQL schedule 4437	water	unfiltered	percent recovery
+decafluorobiphenyl	Decafluorobiphenyl	surrogate	NWQL wastewater compound schedules (WCS)	percent recovery
+fluoranthene-d10	Fluoranthene-d10	surrogate	NWQL wastewater compound schedules (WCS)	percent recovery
+trihalomethanes	Trihalomethanes	water	unfiltered	minimum summation	micrograms per liter
+trihalomethanes	Trihalomethanes	water	unfiltered	maximum summation	micrograms per liter
+total coliforms	Total coliforms	MI MF method	water	colony forming units per 100 milliliters
+escherichia coli	Escherichia coli	MI MF method	water	colony forming units per 100 milliliters
+escherichia coli	Escherichia coli	modified m-TEC MF method	water	colony forming units per 100 milliliters
+enterococci	Enterococci	mEI MF method	water	colony forming units per 100 ml
+fluoride	Fluoride	water	filtered	micrograms per liter
+diazinon-d10	Diazinon-d10	surrogate	water	filtered (0.7 micron glass fiber filter)	percent recovery
+alpha-hch-d6	alpha-HCH-d6	surrogate	water	filtered (0.7 micron glass fiber filter)	percent recovery
+sample weight	Sample weight	NWQL wastewater compound schedules (WCS)	wet weight	grams
+2-fluorophenol	2-Fluorophenol	surrogate	water	unfiltered	percent recovery
+phenol-d5	Phenol-d5	surrogate	water	unfiltered	percent recovery
+caffeine-d9	Caffeine-d9	surrogate	water	unfiltered	percent recovery
+bisphenol a-d14	Bisphenol A-d14	surrogate	water	unfiltered	percent recovery
+bisphenol a-d14	Bisphenol A-d14	surrogate	solids	recoverable	percent recovery
+toluene-d8	Toluene-d8	surrogate	EPA 524.2	water	unfiltered	percent recovery
+n-nitrosodimethylamine-d6	N-Nitrosodimethylamine-d6	surrogate	water	unfiltered	percent recovery
+nitrobenzene-d5	Nitrobenzene-d5	surrogate	water	unfiltered	percent recovery
+p-terphenyl-d14	p-Terphenyl-d14	surrogate	water	unfiltered	percent recovery
+2-fluorobiphenyl	2-Fluorobiphenyl	surrogate	water	unfiltered	percent recovery
+n-nitrosodimethylamine (ndma)	N-Nitrosodimethylamine (NDMA)	spike	water	unfiltered	percent recovery
+conversion factor	Conversion factor	number
+total cell count	Total cell count	water	cells per milliliter
+noncarbonate hardness	Noncarbonate hardness	water	milligrams per liter as calcium carbonate
+chlamydomonadaceae      (3) usgs,acl-74	CHLAMYDOMONADACEAE      (3) USGS,ACL-74
+carteria                (4) usgs,acl-74	CARTERIA                (4) USGS,ACL-74
+chlamydomonas           (4) usgs,acl-74	CHLAMYDOMONAS           (4) USGS,ACL-74
+chlorogonium            (4) usgs,acl-74	CHLOROGONIUM            (4) USGS,ACL-74
+lobomonas               (4) usgs,acl-74	LOBOMONAS               (4) USGS,ACL-74
+phacotus                (4) usgs,acl-74	PHACOTUS                (4) USGS,ACL-74
+pteromonas              (4) usgs,acl-74	PTEROMONAS              (4) USGS,ACL-74
+eudorina                (4) usgs,acl-74	EUDORINA                (4) USGS,ACL-74
+gloeocystis             (4) usgs,acl-74	GLOEOCYSTIS             (4) USGS,ACL-74
+elakatothrix            (4) usgs,acl-74	ELAKATOTHRIX            (4) USGS,ACL-74
+uronema                 (4) usgs,acl-74	URONEMA                 (4) USGS,ACL-74
+microspora              (4) usgs,acl-74	MICROSPORA              (4) USGS,ACL-74
+stigeoclonium           (4) usgs,acl-74	STIGEOCLONIUM           (4) USGS,ACL-74
+coleochaete             (4) usgs,acl-74	COLEOCHAETE             (4) USGS,ACL-74
+cladophora              (4) usgs,acl-74	CLADOPHORA              (4) USGS,ACL-74
+oedogonium              (4) usgs,acl-74	OEDOGONIUM              (4) USGS,ACL-74
+schroederia             (4) usgs,acl-74	SCHROEDERIA             (4) USGS,ACL-74
+pediastrum              (4) usgs,acl-74	PEDIASTRUM              (4) USGS,ACL-74
+coelastrum              (4) usgs,acl-74	COELASTRUM              (4) USGS,ACL-74
+ankistrodesmus          (4) usgs,acl-74	ANKISTRODESMUS          (4) USGS,ACL-74
+chlorella               (4) usgs,acl-74	CHLORELLA               (4) USGS,ACL-74
+closteriopsis           (4) usgs,acl-74	CLOSTERIOPSIS           (4) USGS,ACL-74
+dictyosphaerium         (4) usgs,acl-74	DICTYOSPHAERIUM         (4) USGS,ACL-74
+franceia                (4) usgs,acl-74 -96203	FRANCEIA                (4) USGS,ACL-74 -96203
+kirchneriella           (4) usgs,acl-74	KIRCHNERIELLA           (4) USGS,ACL-74
+nephrocytium            (4) usgs,acl-74	NEPHROCYTIUM            (4) USGS,ACL-74
+oocystis                (4) usgs,acl-74	OOCYSTIS                (4) USGS,ACL-74
+quadrigula              (4) usgs,acl-74	QUADRIGULA              (4) USGS,ACL-74
+selenastrum             (4) usgs,acl-74	SELENASTRUM             (4) USGS,ACL-74
+tetraedron              (4) usgs,acl-74	TETRAEDRON              (4) USGS,ACL-74
+chodatella              (4) usgs,acl-74	CHODATELLA              (4) USGS,ACL-74
+scenedesmaceae          (3) usgs,acl-74	SCENEDESMACEAE          (3) USGS,ACL-74
+actinastrum             (4) usgs,acl-74	ACTINASTRUM             (4) USGS,ACL-74
+crucigenia              (4) usgs,acl-74	CRUCIGENIA              (4) USGS,ACL-74
+scenedesmus             (4) usgs,acl-74	SCENEDESMUS             (4) USGS,ACL-74
+tetrastrum              (4) usgs,acl-74	TETRASTRUM              (4) USGS,ACL-74
+golenkinia              (4) usgs,acl-74	GOLENKINIA              (4) USGS,ACL-74
+micractinium            (4) usgs,acl-74	MICRACTINIUM            (4) USGS,ACL-74
+closterium              (4) usgs,acl-74	CLOSTERIUM              (4) USGS,ACL-74
+cosmarium               (4) usgs,acl-74	COSMARIUM               (4) USGS,ACL-74
+staurastrum             (4) usgs,acl-74	STAURASTRUM             (4) USGS,ACL-74
+euglena                 (4) usgs,acl-74	EUGLENA                 (4) USGS,ACL-74
+phacus                  (4) usgs,acl-74	PHACUS                  (4) USGS,ACL-74
+trachelomonas           (4) usgs,acl-74	TRACHELOMONAS           (4) USGS,ACL-74
+chroomonas              (4) usgs,acl-74	CHROOMONAS              (4) USGS,ACL-74
+cryptomonas             (4) usgs,acl-74	CRYPTOMONAS             (4) USGS,ACL-74
+cryptomonas             (4) usgs,acl-74 -96416	CRYPTOMONAS             (4) USGS,ACL-74 -96416
+glenodinium             (4) usgs,acl-74	GLENODINIUM             (4) USGS,ACL-74
+mallomonas              (4) usgs,acl-74	MALLOMONAS              (4) USGS,ACL-74
+ochromonas              (4) usgs,acl-74	OCHROMONAS              (4) USGS,ACL-74
+uroglenopsis            (4) usgs,acl-74	UROGLENOPSIS            (4) USGS,ACL-74
+cyclotella              (4) usgs,acl-74	CYCLOTELLA              (4) USGS,ACL-74
+melosira                (4) usgs,acl-74	MELOSIRA                (4) USGS,ACL-74
+stephanodiscus          (4) usgs,acl-74	STEPHANODISCUS          (4) USGS,ACL-74
+tabellaria              (4) usgs,acl-74	TABELLARIA              (4) USGS,ACL-74
+meridion                (4) usgs,acl-74	MERIDION                (4) USGS,ACL-74
+diatoma                 (4) usgs,acl-74	DIATOMA                 (4) USGS,ACL-74
+fragilaria              (4) usgs,acl-74	FRAGILARIA              (4) USGS,ACL-74
+synedra                 (4) usgs,acl-74	SYNEDRA                 (4) USGS,ACL-74
+achnanthes              (4) usgs,acl-74	ACHNANTHES              (4) USGS,ACL-74
+cocconeis               (4) usgs,acl-74	COCCONEIS               (4) USGS,ACL-74
+rhoicosphenia           (4) usgs,acl-75	RHOICOSPHENIA           (4) USGS,ACL-75
+diploneis               (4) usgs,acl-74	DIPLONEIS               (4) USGS,ACL-74
+navicula                (4) usgs,acl-74	NAVICULA                (4) USGS,ACL-74
+gomphonema              (4) usgs,acl-74	GOMPHONEMA              (4) USGS,ACL-74
+amphora                 (4) usgs,acl-74	AMPHORA                 (4) USGS,ACL-74
+cymbella                (4) usgs,acl-74	CYMBELLA                (4) USGS,ACL-74
+epithemia               (4) usgs,acl-74	EPITHEMIA               (4) USGS,ACL-74
+denticula               (4) usgs,acl-74	DENTICULA               (4) USGS,ACL-74
+hantzschia              (4) usgs,acl-74	HANTZSCHIA              (4) USGS,ACL-74
+nitzschia               (4) usgs,acl-74	NITZSCHIA               (4) USGS,ACL-74
+surirella               (4) usgs,acl-74	SURIRELLA               (4) USGS,ACL-74
+anacystis               (4) menegh,1837 -98066	ANACYSTIS               (4) MENEGH,1837 -98066
+agmenellum              (4) breb. ,1839	AGMENELLUM              (4) BREB. ,1839
+coccochloris            (4) spreng,1827	COCCOCHLORIS            (4) SPRENG,1827
+lyngbya                 (4) agard' ,1824	LYNGBYA                 (4) AGARD' ,1824
+oscillatoria            (4) vaucher,1803	OSCILLATORIA            (4) VAUCHER,1803
+phormidium              (4)  keutz,1843	PHORMIDIUM              (4)  KEUTZ,1843
+anabaena                (4) usgs,acl-74	ANABAENA                (4) USGS,ACL-74
+anabaenopsis            (4) usgs,acl-74	ANABAENOPSIS            (4) USGS,ACL-74
+aphanizomenon           (4) usgs,acl-74	APHANIZOMENON           (4) USGS,ACL-74
+cylindrospermum         (4) usgs,acl-74	CYLINDROSPERMUM         (4) USGS,ACL-74
+plectonema              (4) usgs,acl-74	PLECTONEMA              (4) USGS,ACL-74
+inorganic arsenic(iii)	Inorganic arsenic(III)	water	filtered (0.45 micron filter)	micrograms per liter as arsenic
+type of replicate	Type of replicate	code
+type of quality assurance data associated with sample	Type of quality assurance data associated with sample	code
+topical quality-control data purpose	Topical quality-control data purpose	code
+sulfide	Sulfide	water	filtered	field	milligrams per liter
+sulfide	Sulfide	water	unfiltered	field	milligrams per liter
+hydrochloric acid nwis lot number	Hydrochloric acid NWIS lot number	1:1 solution	30 mL	National Field Supply Service (NFSS) stock number N1140
+hydrochloric acid nwis lot number	Hydrochloric acid NWIS lot number	6 N (1:1)	2 mL	National Field Supply Service (NFSS) stock number Q446FLD
+nitric acid nwis lot number	Nitric acid NWIS lot number	7.5-7.7 N	2 mL	National Field Supply Service (NFSS) stock number Q436FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	100 uS/cm KCl	National Field Supply Service (NFSS) stock number Q43FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	250 uS/cm KCl	National Field Supply Service (NFSS) stock number Q44FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	500 uS/cm KCl	National Field Supply Service (NFSS) stock number Q45FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	750 uS/cm KCl	National Field Supply Service (NFSS) stock number Q46FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	1000 uS/cm KCl	National Field Supply Service (NFSS) stock number Q47FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	2500 uS/cm KCl	National Field Supply Service (NFSS) stock number Q49FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	5000 uS/cm KCl	National Field Supply Service (NFSS) stock number Q48FLD
+ph 10 buffer solution	pH 10 Buffer solution	NWIS lot number	National Field Supply Service (NFSS) stock numbers Q122FLD	Q123FLD
+ph 4 buffer solution	pH 4 Buffer solution	NWIS lot number	National Field Supply Service (NFSS) stock numbers Q124FLD	Q125FLD
+ph 7 buffer solution	pH 7 Buffer solution	NWIS lot number	National Field Supply Service (NFSS) stock numbers Q126FLD	Q127FLD
+sulfuric acid titrant nwis lot number	Sulfuric acid titrant NWIS lot number	0.16 N	cartridge	National Field Supply Service (NFSS) stock number Q142FLD
+conductance standard nwis lot number	Conductance standard NWIS lot number	1800 uS/cm KCl	National Field Supply Service (NFSS) stock number Q383FLD
+lot number	Lot number	first	inorganic-grade water	number
+lot number	Lot number	first	VOC-free water	number
+nwis lot number	NWIS lot number	capsule filter	0.45 micron
+coliphage	Coliphage	somatic	E. coli CN13-host	2-step enrichment	water	presence or absence per liter
+coliphage	Coliphage	F-specific	E. coli FAMP-host	2-step enrichment	water	presence or absence per liter
+carbonate	Carbonate	water	unfiltered	inflection-point titration method (incremental titration method)	field	milligrams per liter as calcium carbonate
+bicarbonate	Bicarbonate	water	unfiltered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+carbonate	Carbonate	water	unfiltered	inflection-point titration method (incremental titration method)	field	milligrams per liter
+enterococci	Enterococci	water	defined substrate test method (DSTM)	most probable number per 100 milliliters
+set number	Set number	NWQL labcode 0113
+set number	Set number	NWQL labcode 0114
+set number	Set number	NWQL labcode 0305
+set number	Set number	NWQL schedule 2060	NWQL lab code 9060
+set number	Set number	NWQL schedule 2001
+set number	Set number	NWQL schedule 2050
+set number	Set number	NWQL schedule 2090
+1,2-dichloroethane-d4	1,2-Dichloroethane-d4	surrogate	water	unfiltered	percent recovery
+toluene-d8	Toluene-d8	surrogate	water	unfiltered	percent recovery
+1-bromo-4-fluorobenzene	1-Bromo-4-fluorobenzene	surrogate	NWQL VOC schedules	water	unfiltered	percent recovery
+bdmc	BDMC	surrogate	water	unfiltered	percent recovery
+sample volume	Sample volume	NWQL schedules 2060 and 9060	milliliters
+sample volume	Sample volume	NWQL schedule 2050	milliliters
+sample volume	Sample volume	NWQL schedule 1383	milliliters
+sample volume	Sample volume	NWQL schedule 2001	milliliters
+number of tentatively identified compounds (tics) from voc analysis by gcms	Number of tentatively identified compounds (TICS) from VOC analysis by GCMS	number
+set number	Set number	VOC analysis
+sample volume	Sample volume	NWQL schedule1306	milliliters
+2,4,5-t	2,4,5-T	surrogate	NWQL schedule 9060/2060	water	filtered	percent recovery
+caffeine-13c	Caffeine-13C	surrogate	NWQL schedule 9060/2060	water	filtered	percent recovery
+sample volume	Sample volume	NWQL schedule 4433 and labcode 8033 (WWWW)	milliliters
+sample volume	Sample volume	NWQL schedule 2003	milliliters
+diazinon-d10	Diazinon-d10	surrogate	NWQL schedule 2003	water	filtered	percent recovery
+alpha-hch-d6	alpha-HCH-d6	surrogate	NWQL schedule 2003	water	filtered	percent recovery
