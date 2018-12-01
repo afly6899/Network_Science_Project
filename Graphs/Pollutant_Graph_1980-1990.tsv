@@ -1,0 +1,175 @@
+Node 1	Node 2	Weight
+p,p'-dde	mercury	2
+p,p'-dde	arsenic	3
+p,p'-dde	cadmium	3
+p,p'-dde	lindane	6
+p,p'-dde	p,p'-ddd	6
+p,p'-dde	endrin	6
+p,p'-dde	toxaphene	6
+p,p'-dde	lead	3
+p,p'-dde	heptachlor epoxide	6
+p,p'-dde	dieldrin	6
+p,p'-dde	aldrin	6
+p,p'-dde	heptachlor	6
+p,p'-dde	p,p'-ddt	6
+p,p'-dde	pcbs	6
+p,p'-dde	boron	2
+p,p'-dde	nickel	3
+p,p'-dde	iron	3
+mercury	boron	1
+mercury	iron	3
+mercury	phosphorus	1
+mercury	arsenic	3
+mercury	p,p'-ddd	2
+mercury	endrin	2
+mercury	p,p'-ddt	2
+mercury	chromium	1
+mercury	heptachlor	2
+mercury	manganese	1
+mercury	nickel	3
+mercury	cadmium	3
+mercury	lindane	2
+mercury	lead	3
+mercury	toxaphene	2
+mercury	aldrin	2
+mercury	dieldrin	2
+mercury	heptachlor epoxide	2
+mercury	pcbs	2
+arsenic	boron	1
+arsenic	iron	4
+arsenic	phosphorus	1
+arsenic	cadmium	4
+arsenic	lindane	3
+arsenic	p,p'-ddd	3
+arsenic	endrin	3
+arsenic	lead	4
+arsenic	toxaphene	3
+arsenic	aldrin	3
+arsenic	dieldrin	3
+arsenic	p,p'-ddt	3
+arsenic	chromium	1
+arsenic	heptachlor	3
+arsenic	heptachlor epoxide	3
+arsenic	manganese	1
+arsenic	pcbs	3
+arsenic	nickel	4
+cadmium	boron	1
+cadmium	iron	4
+cadmium	phosphorus	1
+cadmium	p,p'-ddd	3
+cadmium	endrin	3
+cadmium	p,p'-ddt	3
+cadmium	chromium	1
+cadmium	heptachlor	3
+cadmium	manganese	1
+cadmium	nickel	4
+cadmium	heptachlor epoxide	3
+cadmium	lead	4
+cadmium	dieldrin	3
+cadmium	lindane	3
+cadmium	toxaphene	3
+cadmium	aldrin	3
+cadmium	pcbs	3
+lindane	boron	2
+lindane	iron	3
+lindane	p,p'-ddd	6
+lindane	endrin	6
+lindane	p,p'-ddt	6
+lindane	heptachlor	6
+lindane	nickel	3
+lindane	heptachlor epoxide	6
+lindane	lead	3
+lindane	dieldrin	6
+lindane	toxaphene	6
+lindane	aldrin	6
+lindane	pcbs	6
+p,p'-ddd	boron	2
+p,p'-ddd	iron	3
+p,p'-ddd	endrin	6
+p,p'-ddd	toxaphene	6
+p,p'-ddd	lead	3
+p,p'-ddd	heptachlor epoxide	6
+p,p'-ddd	dieldrin	6
+p,p'-ddd	aldrin	6
+p,p'-ddd	heptachlor	6
+p,p'-ddd	p,p'-ddt	6
+p,p'-ddd	pcbs	6
+p,p'-ddd	nickel	3
+endrin	boron	2
+endrin	iron	3
+endrin	toxaphene	6
+endrin	lead	3
+endrin	heptachlor epoxide	6
+endrin	dieldrin	6
+endrin	aldrin	6
+endrin	heptachlor	6
+endrin	p,p'-ddt	6
+endrin	pcbs	6
+endrin	nickel	3
+toxaphene	boron	2
+toxaphene	iron	3
+toxaphene	p,p'-ddt	6
+toxaphene	heptachlor	6
+toxaphene	nickel	3
+toxaphene	heptachlor epoxide	6
+toxaphene	lead	3
+toxaphene	dieldrin	6
+toxaphene	aldrin	6
+toxaphene	pcbs	6
+lead	boron	1
+lead	iron	4
+lead	phosphorus	1
+lead	p,p'-ddt	3
+lead	chromium	1
+lead	heptachlor	3
+lead	manganese	1
+lead	nickel	4
+lead	heptachlor epoxide	3
+lead	aldrin	3
+lead	dieldrin	3
+lead	pcbs	3
+heptachlor epoxide	boron	2
+heptachlor epoxide	iron	3
+heptachlor epoxide	p,p'-ddt	6
+heptachlor epoxide	heptachlor	6
+heptachlor epoxide	nickel	3
+heptachlor epoxide	dieldrin	6
+heptachlor epoxide	aldrin	6
+heptachlor epoxide	pcbs	6
+dieldrin	boron	2
+dieldrin	iron	3
+dieldrin	p,p'-ddt	6
+dieldrin	heptachlor	6
+dieldrin	nickel	3
+dieldrin	aldrin	6
+dieldrin	pcbs	6
+aldrin	boron	2
+aldrin	iron	3
+aldrin	p,p'-ddt	6
+aldrin	heptachlor	6
+aldrin	nickel	3
+aldrin	pcbs	6
+heptachlor	boron	2
+heptachlor	iron	3
+heptachlor	p,p'-ddt	6
+heptachlor	pcbs	6
+heptachlor	nickel	3
+p,p'-ddt	boron	2
+p,p'-ddt	iron	3
+p,p'-ddt	pcbs	6
+p,p'-ddt	nickel	3
+pcbs	boron	2
+pcbs	iron	3
+pcbs	nickel	3
+boron	nickel	1
+boron	iron	1
+nickel	iron	4
+nickel	phosphorus	1
+nickel	chromium	1
+nickel	manganese	1
+iron	phosphorus	1
+iron	chromium	1
+iron	manganese	1
+phosphorus	chromium	1
+phosphorus	manganese	1
+chromium	manganese	1
