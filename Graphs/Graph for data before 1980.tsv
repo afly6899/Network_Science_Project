@@ -1,3 +1,4 @@
+Node 1	Node 2	Date	% Error	Value	Threshold	Threshold Adhered To
 phosphorus	11103000	1979-10-29	15.0	1.6	0.1	USEPA_HA_NonCancer
 phosphorus	11103000	1979-11-27	31.0	3.2	0.1	USEPA_HA_NonCancer
 phosphorus	11103000	1979-12-20	32.99999999999999	3.4	0.1	USEPA_HA_NonCancer
