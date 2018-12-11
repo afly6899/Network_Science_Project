@@ -156,7 +156,10 @@ def write_graph_to_file(filename, graph, data=None, verbose=False):
         file.close()
 
         file = open(filename, 'w')
-        file.write("\t".join(["Node 1", "Node 2"] + data) + "\n")
+        if data:
+            file.write("\t".join(["Node 1", "Node 2"] + data) + "\n")
+        else:
+            file.write("\t".join(["Node 1", "Node 2"])  + "\n")
         file.write(file_contents)
         file.close()
         
@@ -165,7 +168,7 @@ def write_graph_to_file(filename, graph, data=None, verbose=False):
     except Exception as e:
         if not verbose:
             print("Writing graphs to files:")
-        print("\tWriting Failed for file", filename, + ":", e)
+        print("\tWriting Failed for file", filename + ":", e)
     
     if verbose:
         print(time.time() - start_time)
